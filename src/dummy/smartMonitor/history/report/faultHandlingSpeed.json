@@ -1,0 +1,83 @@
+[
+    {
+    "devClassKey": "",
+    "devClassName": "李丽",
+    "manufFaultInfo": [
+      {
+        "devFaultRate": 10,
+        "faultTime": 0,
+        "manufId": "",
+        "manufName": "高",
+        "normalTime": 0
+      },
+      {
+        "devFaultRate": 15,
+        "faultTime": 0,
+        "manufId": "",
+        "manufName": "中",
+        "normalTime": 0
+      },
+      {
+        "devFaultRate": 9,
+        "faultTime": 0,
+        "manufId": "",
+        "manufName": "低",
+        "normalTime": 0
+      }
+    ]
+  },
+  {
+    "devClassKey": "",
+    "devClassName": "张丹丹",
+    "manufFaultInfo": [
+      {
+        "devFaultRate": 3,
+        "faultTime": 0,
+        "manufId": "",
+        "manufName": "高",
+        "normalTime": 0
+      },
+      {
+        "devFaultRate": 23,
+        "faultTime": 0,
+        "manufId": "",
+        "manufName": "中",
+        "normalTime": 0
+      },
+      {
+        "devFaultRate": 16,
+        "faultTime": 0,
+        "manufId": "",
+        "manufName": "低",
+        "normalTime": 0
+      }
+    ]
+  },
+  {
+    "devClassKey": "",
+    "devClassName": "王强",
+    "manufFaultInfo": [
+      {
+        "devFaultRate": 10,
+        "faultTime": 0,
+        "manufId": "",
+        "manufName": "高",
+        "normalTime": 0
+      },
+      {
+        "devFaultRate": 14,
+        "faultTime": 0,
+        "manufId": "",
+        "manufName": "中",
+        "normalTime": 0
+      },
+      {
+        "devFaultRate": 11,
+        "faultTime": 0,
+        "manufId": "",
+        "manufName": "低",
+        "normalTime": 0
+      }
+    ]
+  }
+  ]

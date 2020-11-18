@@ -1,0 +1,194 @@
+
+
+ //覆盖一些element-ui样式
+ .el-breadcrumb__inner, .el-breadcrumb__inner a{
+  font-weight: 400!important;
+}
+
+ .el-popover{
+  padding:0 !important;
+ }
+ .el-upload {
+   input[type="file"] {
+     display: none !important;
+   }
+ }
+
+ .el-upload__input {
+   display: none;
+ }
+
+ .cell {
+   .el-tag {
+     margin-right: 0px;
+   }
+ }
+
+ .small-padding {
+   .cell {
+     padding-left: 5px;
+     padding-right: 5px;
+   }
+ }
+
+ .fixed-width{
+  .el-button--mini{
+    padding: 7px 10px;
+    width: 60px;
+  }
+ }
+
+ .status-col {
+   .cell {
+     padding: 0 10px;
+     text-align: center;
+     .el-tag {
+       margin-right: 0px;
+     }
+   }
+ }
+
+ //暂时性解决dialog 问题 https://github.com/ElemeFE/element/issues/2461
+ .el-dialog {
+   transform: none;
+   left: 0;
+   position: relative;
+   margin: 0 auto;
+ }
+
+ //文章页textarea修改样式
+ .article-textarea {
+   textarea {
+     padding-right: 40px;
+     resize: none;
+     border: none;
+     border-radius: 0px;
+     border-bottom: 1px solid #bfcbd9;
+   }
+ }
+
+ //element ui upload
+ .upload-container {
+   .el-upload {
+     width: 100%;
+     .el-upload-dragger {
+       width: 100%;
+       height: 200px;
+     }
+   }
+ }
+ // element ui table
+  .el-table--mini,.el-table--small{
+    font-size: 14px!important;
+  }
+  // element ui button
+  .el-button--mini{
+    font-size: 14px!important;
+  }
+//dropdown
+ .el-dropdown-menu{
+  a{
+    display: block
+  }
+}
+
+
+.WrongAccount-remote-view .el-dialog__title,.reconciliation .el-dialog__title{
+  font-family: PingFangSC-Medium;
+  font-size: 16px;
+  color: #333;
+}
+.reconciliation .el-dialog__header{
+  background: #F9F9F9;
+  border-radius: 4px 4px 0px 0px;
+  border-bottom: #E5E5E5 1px solid;
+}
+.reconciliation{
+  .el-table--border th{
+    border-right: 0;
+  }
+}
+
+//统计报表日历控件
+.index-content{
+  .today{
+    div{
+      span{
+        color:#c0c4cc!important
+      }
+    }
+  }
+  .el-pagination.is-background .el-pager li:not(.disabled).active {
+      /* background-color: #258AFF; */
+      color: #5d5d5d;
+      border: 1px solid #6788ff;
+  }
+  // 报表-设备故障标签页样式复写
+  .Echarts{
+    .el-tabs__nav{
+      left: 38%;
+    }
+    .el-tabs__nav-wrap::after{
+      height: 0;
+    }
+    .el-tabs__item{
+      font-family: PingFangSC-Semibold;
+      font-size: 18px;
+      color: #333;
+    }
+    .is-active{
+      color: #258AFF;
+    }
+  }
+  .equipTypelist .el-checkbox-button--small .el-checkbox-button__inner{
+    font-size: 14px;
+    font-family: PingFangSC-Regular;
+    padding: 7px 16px;
+  }
+  // tabs样式
+  .el-tabs{
+    .el-tabs__active-bar{
+      height: 4px;
+      border-radius: 4px;
+    }
+  }
+  // echarts 样式
+  .echartBox{
+    .btn-isShow{
+      position: absolute;
+      bottom: -10px;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    #deviceChart{
+      background-color: #fff;
+      border-radius: 8px 8px 0px 0px;
+    }
+    .btn-isShow{
+      border:0;
+      border-radius: 8px 8px 0px 0px;
+      box-shadow: 0 0 10px 0 rgba(173,173,173,0.50);
+      background-color: #fff;
+      font-size: 14px;
+      font-family: PingFangSC-Regular;
+      color: #4A4A4A;
+      padding: 4px 1.8rem;
+    }
+    .btn-isShow-border-echart{
+      transform: rotate(-90deg)
+    }
+  }
+}
+.header-top{
+  .el-checkbox__input{
+    display: none;
+  }
+}
+.hradingQuality{
+  .el-radio__input{
+    display: none;
+  }
+  .el-radio__label{
+    padding-left: 5px;
+  }
+}

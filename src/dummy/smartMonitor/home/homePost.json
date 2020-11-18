@@ -1,0 +1,40 @@
+{
+  "alarmOne": [
+    {
+      "deviceNum": 1,
+      "tranNum": 0
+    }
+  ],
+  "alarmTwo": [
+    {
+      "deviceNum": 1,
+      "tranNum": 2
+    }
+  ],
+  "alarmThree": [
+    {
+      "deviceNum": 8,
+      "tranNum": 80
+    }
+  ],
+  "alarmInfo": [
+    {
+      "alarmLevel": 3,
+      "description": "网络无法检测",
+      "alarmDate": "2019-07-12 10:10:23",
+      "warnType": "tran"
+    },
+    {
+      "alarmLevel": 2,
+      "description": "网络无法检测",
+      "alarmDate": "2019-07-12 10:10:22",
+      "warnType": "device"
+    },
+    {
+      "alarmLevel": 1,
+      "description": "网络无法检测",
+      "alarmDate": "2019-07-12 10:10:22",
+      "warnType": "device"
+    }
+  ]
+}

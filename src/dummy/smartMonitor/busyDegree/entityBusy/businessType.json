@@ -1,0 +1,246 @@
+{
+	"companyBusinessList": [
+		{
+			"avgWaitingTime": "12",
+			"businessTypeId": "1",
+			"businessTypeName": "账户开户1",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "1",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+    },
+    {
+			"avgWaitingTime": "11",
+			"businessTypeId": "2",
+			"businessTypeName": "账户开户1",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "2",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+    },
+    {
+			"avgWaitingTime": "10",
+			"businessTypeId": "3",
+			"businessTypeName": "账户开户3",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "3",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+    },
+    {
+			"avgWaitingTime": "9",
+			"businessTypeId": "4",
+			"businessTypeName": "账户开户5",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "5",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+    },
+    {
+			"avgWaitingTime": "8",
+			"businessTypeId": "5",
+			"businessTypeName": "账户开户6",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "6",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+		},
+    {
+			"avgWaitingTime": "7",
+			"businessTypeId": "6",
+			"businessTypeName": "账户开户7",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "7",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+		},
+    {
+			"avgWaitingTime": "0",
+			"businessTypeId": "7",
+			"businessTypeName": "账户开户8",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "8",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "11",
+					"windowName": ""
+				}
+			]
+		},
+    {
+			"avgWaitingTime": "2",
+			"businessTypeId": "8",
+			"businessTypeName": "账户开户9",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "9",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "22",
+					"windowName": ""
+				}
+			]
+		}
+	],
+	"personalBusinessList": [
+		{
+			"avgWaitingTime": "0",
+			"businessTypeId": "1",
+			"businessTypeName": "账户开户8",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "8",
+			"windowList": [
+				{
+					"customerType": "2",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+    },
+    {
+			"avgWaitingTime": "2",
+			"businessTypeId": "2",
+			"businessTypeName": "账户开户7",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "7",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+    },
+    {
+			"avgWaitingTime": "0",
+			"businessTypeId": "3",
+			"businessTypeName": "账户开户6",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "6",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+    },
+    {
+			"avgWaitingTime": "1",
+			"businessTypeId": "4",
+			"businessTypeName": "账户开户5",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "5",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+    },
+    {
+			"avgWaitingTime": "1",
+			"businessTypeId": "5",
+			"businessTypeName": "账户开户4",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "4",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+		},
+    {
+			"avgWaitingTime": "1",
+			"businessTypeId": "6",
+			"businessTypeName": "账户开户3",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "3",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "12",
+					"windowName": ""
+				}
+			]
+		},
+    {
+			"avgWaitingTime": "0",
+			"businessTypeId": "7",
+			"businessTypeName": "账户开户2",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "2",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "11",
+					"windowName": ""
+				}
+			]
+		},
+    {
+			"avgWaitingTime": "0",
+			"businessTypeId": "8",
+			"businessTypeName": "账户开户1",
+			"parentBusinessTypeId": "",
+			"waitingCustomerCount": "1",
+			"windowList": [
+				{
+					"customerType": "",
+					"superQueueNo": "",
+					"windowId": "22",
+					"windowName": ""
+				}
+			]
+		}
+	]
+}

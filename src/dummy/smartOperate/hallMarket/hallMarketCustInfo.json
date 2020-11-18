@@ -1,0 +1,13 @@
+{
+    "pushCount": "22",
+    "receiveCount":"20",
+    "recevieRate":"28",
+    "negativeCount":"128",
+    "negativeHandleCount":"38",
+    "negativeHandleRate":"58",
+    "authHandleCount": "22",
+    "queueHandleCount":"20",
+    "identifiedCount":"8",
+    "callHandleCount":"8",
+    "reserveHandleCount":"8"
+}

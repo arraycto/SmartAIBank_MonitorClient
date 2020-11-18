@@ -1,0 +1,6 @@
+{
+	"betweenTenAndTwentyMinRate": 22.23,
+	"betweenTwentyAndThirtyMinRate": 25,
+	"lessThanTenMinRate": 22.21,
+	"moreThanThirtyMinRate": 25
+}

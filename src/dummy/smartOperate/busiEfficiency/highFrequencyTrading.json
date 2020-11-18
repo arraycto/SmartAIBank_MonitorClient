@@ -1,0 +1,207 @@
+{
+    "highFrequencyTrade": {
+        "COUNT": "2165123",
+        "AVG_TIME": "123",
+        "list": [
+            {
+                "tradeCode": "12365",
+                "tradeName": "客户信息修改",
+                "trandCount": "532",
+                "tranCountRing": -0.15,
+                "tranCountTotalAvg": "232",
+                "handleTimeAvg": "15",
+                "handleTimeRing": -0.5,
+                "handleTimeTotalAvg": "11"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "转账汇款",
+                "trandCount": "125",
+                "tranCountRing": -0.16,
+                "tranCountTotalAvg": "532",
+                "handleTimeAvg": "42",
+                "handleTimeRing": 0.6,
+                "handleTimeTotalAvg": "18"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "电子银行签约",
+                "trandCount": "551",
+                "tranCountRing": 0.6,
+                "tranCountTotalAvg": "320",
+                "handleTimeAvg": "10",
+                "handleTimeRing": 0.36,
+                "handleTimeTotalAvg": "36"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "活期储蓄取款",
+                "trandCount": "123",
+                "tranCountRing": -0.16,
+                "tranCountTotalAvg": "532",
+                "handleTimeAvg": "42",
+                "handleTimeRing": 0.6,
+                "handleTimeTotalAvg": "23"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "个人开户",
+                "trandCount": "551",
+                "tranCountRing": 0.6,
+                "tranCountTotalAvg": "320",
+                "handleTimeAvg": "10",
+                "handleTimeRing": 0.36,
+                "handleTimeTotalAvg": "13"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "流水查询打印",
+                "trandCount": "123",
+                "tranCountRing": -0.16,
+                "tranCountTotalAvg": "532",
+                "handleTimeAvg": "42",
+                "handleTimeRing": 0.6,
+                "handleTimeTotalAvg": "11"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "转账汇款",
+                "trandCount": "551",
+                "tranCountRing": 0.6,
+                "tranCountTotalAvg": "320",
+                "handleTimeAvg": "10",
+                "handleTimeRing": 0.36,
+                "handleTimeTotalAvg": "13"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "客户信息修改",
+                "trandCount": "533",
+                "tranCountRing": -0.15,
+                "tranCountTotalAvg": "232",
+                "handleTimeAvg": "15",
+                "handleTimeRing": -0.5,
+                "handleTimeTotalAvg": "15"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "转账汇款",
+                "trandCount": "253",
+                "tranCountRing": -0.16,
+                "tranCountTotalAvg": "532",
+                "handleTimeAvg": "42",
+                "handleTimeRing": 0.6,
+                "handleTimeTotalAvg": "19"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "电子银行签约",
+                "trandCount": "551",
+                "tranCountRing": 0.6,
+                "tranCountTotalAvg": "320",
+                "handleTimeAvg": "10",
+                "handleTimeRing": 0.36,
+                "handleTimeTotalAvg": "20"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "活期储蓄取款",
+                "trandCount": "153",
+                "tranCountRing": -0.16,
+                "tranCountTotalAvg": "532",
+                "handleTimeAvg": "42",
+                "handleTimeRing": 0.6,
+                "handleTimeTotalAvg": "18"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "个人开户",
+                "trandCount": "551",
+                "tranCountRing": 0.6,
+                "tranCountTotalAvg": "320",
+                "handleTimeAvg": "10",
+                "handleTimeRing": 0.36,
+                "handleTimeTotalAvg": "15"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "流水查询打印",
+                "trandCount": "123",
+                "tranCountRing": -0.16,
+                "tranCountTotalAvg": "532",
+                "handleTimeAvg": "42",
+                "handleTimeRing": 0.6,
+                "handleTimeTotalAvg": "14"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "转账汇款",
+                "trandCount": "551",
+                "tranCountRing": 0.6,
+                "tranCountTotalAvg": "320",
+                "handleTimeAvg": "10",
+                "handleTimeRing": 0.36,
+                "handleTimeTotalAvg": "16"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "客户信息修改",
+                "trandCount": "320",
+                "tranCountRing": -0.15,
+                "tranCountTotalAvg": "232",
+                "handleTimeAvg": "15",
+                "handleTimeRing": -0.5,
+                "handleTimeTotalAvg": "15"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "转账汇款",
+                "trandCount": "125",
+                "tranCountRing": -0.16,
+                "tranCountTotalAvg": "532",
+                "handleTimeAvg": "42",
+                "handleTimeRing": 0.6,
+                "handleTimeTotalAvg": "21"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "电子银行签约",
+                "trandCount": "551",
+                "tranCountRing": 0.6,
+                "tranCountTotalAvg": "320",
+                "handleTimeAvg": "10",
+                "handleTimeRing": 0.36,
+                "handleTimeTotalAvg": "23"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "活期储蓄取款",
+                "trandCount": "123",
+                "tranCountRing": -0.16,
+                "tranCountTotalAvg": "532",
+                "handleTimeAvg": "42",
+                "handleTimeRing": 0.6,
+                "handleTimeTotalAvg": "20"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "个人开户",
+                "trandCount": "551",
+                "tranCountRing": 0.6,
+                "tranCountTotalAvg": "320",
+                "handleTimeAvg": "10",
+                "handleTimeTotalAvg": "19"
+            },
+            {
+                "tradeCode": "12365",
+                "tradeName": "流水查询打印",
+                "trandCount": "125",
+                "tranCountRing": -0.16,
+                "tranCountTotalAvg": "532",
+                "handleTimeAvg": "42",
+                "handleTimeRing": 0,
+                "handleTimeTotalAvg": "16"
+            }
+        ]
+    }
+}

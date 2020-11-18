@@ -1,0 +1,185 @@
+{
+    "orglist":[
+        {
+            "branchName":"九江银行",
+            "branchNo":"08001"
+        },
+        {
+            "branchName":"支行一",
+            "branchNo":"0011"
+        }
+    ],
+    "equipTypelist":[
+        {
+            "devClassKey":"10",
+            "devClassName":"PC终端"
+        },
+        {
+            "devClassKey":"11",
+            "devClassName":"图形终端"
+        },
+        {
+            "devClassKey":"100000",
+            "devClassName":"排队机"
+        },
+        {
+            "devClassKey":"667",
+            "devClassName":"回单机"
+        }
+    ],
+    "devModel":[
+        {
+            "manufacturerId":"02",
+            "name":"日立"
+        },
+        {
+            "manufacturerId":"0001",
+            "name":"银达汇至"
+        }
+    ],
+    "chartData":[
+        {
+            "allAvgUseTime": 0,
+            "devClassId": "",
+            "devClassName": "",
+            "manufacturerId": "",
+            "manufacturerName": "日立1",
+            "numberOfReplacements": 0,
+            "selfAvgUseTime": 9.02,
+            "useTime": "",
+            "useTimeCompareResult": ""
+        },
+        {
+            "allAvgUseTime": 0,
+            "devClassId": "",
+            "devClassName": "",
+            "manufacturerId": "",
+            "manufacturerName": "日立2",
+            "numberOfReplacements": 0,
+            "selfAvgUseTime": 12,
+            "useTime": "",
+            "useTimeCompareResult": ""
+        },
+        {
+            "allAvgUseTime": 0,
+            "devClassId": "",
+            "devClassName": "",
+            "manufacturerId": "",
+            "manufacturerName": "银达汇至1",
+            "numberOfReplacements": 0,
+            "selfAvgUseTime": 0,
+            "useTime": "",
+            "useTimeCompareResult": ""
+        },
+        {
+            "allAvgUseTime": 0,
+            "devClassId": "",
+            "devClassName": "",
+            "manufacturerId": "",
+            "manufacturerName": "银达汇至2",
+            "numberOfReplacements": 0,
+            "selfAvgUseTime": 10,
+            "useTime": "",
+            "useTimeCompareResult": ""
+        }
+    ],
+    "allData":{
+        "endRow": 0,
+        "hasNextPage": true,
+        "hasPreviousPage": true,
+        "isFirstPage": true,
+        "isLastPage": true,
+        "list": [
+            {
+                "allAvgUseTime": 31,
+                "devClassId": "",
+                "devClassName": "pc终端",
+                "manufacturerId": "",
+                "manufacturerName": "日立",
+                "numberOfReplacements": 3,
+                "selfAvgUseTime": 10,
+                "useTime": "12",
+                "useTimeCompareResult": "低于"
+            },
+            {
+                "allAvgUseTime": 31,
+                "devClassId": "",
+                "devClassName": "pc终端",
+                "manufacturerId": "",
+                "manufacturerName": "日立",
+                "numberOfReplacements": 3,
+                "selfAvgUseTime": 10,
+                "useTime": "12",
+                "useTimeCompareResult": "低于"
+            },
+            {
+                "allAvgUseTime": 31,
+                "devClassId": "",
+                "devClassName": "pc终端",
+                "manufacturerId": "",
+                "manufacturerName": "日立",
+                "numberOfReplacements": 3,
+                "selfAvgUseTime": 10,
+                "useTime": "12",
+                "useTimeCompareResult": "低于"
+            },
+            {
+                "allAvgUseTime": 31,
+                "devClassId": "",
+                "devClassName": "pc终端",
+                "manufacturerId": "",
+                "manufacturerName": "日立",
+                "numberOfReplacements": 3,
+                "selfAvgUseTime": 10,
+                "useTime": "12",
+                "useTimeCompareResult": "低于"
+            },
+            {
+                "allAvgUseTime": 31,
+                "devClassId": "",
+                "devClassName": "pc终端",
+                "manufacturerId": "",
+                "manufacturerName": "日立",
+                "numberOfReplacements": 3,
+                "selfAvgUseTime": 10,
+                "useTime": "12",
+                "useTimeCompareResult": "低于"
+            },
+            {
+                "allAvgUseTime": 31,
+                "devClassId": "",
+                "devClassName": "pc终端",
+                "manufacturerId": "",
+                "manufacturerName": "日立",
+                "numberOfReplacements": 3,
+                "selfAvgUseTime": 10,
+                "useTime": "12",
+                "useTimeCompareResult": "低于"
+            },
+            {
+                "allAvgUseTime": 31,
+                "devClassId": "",
+                "devClassName": "pc终端",
+                "manufacturerId": "",
+                "manufacturerName": "日立",
+                "numberOfReplacements": 3,
+                "selfAvgUseTime": 10,
+                "useTime": "12",
+                "useTimeCompareResult": "低于"
+            }
+        ],
+        "navigateFirstPage": 0,
+        "navigateLastPage": 0,
+        "navigatePages": 0,
+        "navigatepageNums": [],
+        "nextPage": 0,
+        "pageNum": 0,
+        "pageSize": 0,
+        "pages": 0,
+        "prePage": 0,
+        "size": 0,
+        "startRow": 0,
+        "total": 19
+    }
+
+}

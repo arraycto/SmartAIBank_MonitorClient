@@ -1,0 +1,82 @@
+$themeColor:#258aff;//整体主题色、按钮颜色、icon颜色、控件激活边框线
+$hoverColor:#1977e4;//整体hover文字色、按钮hover色
+$meunColor:#004e97;//菜单背景色、按钮按下色
+$meunHoverColor:#023e76;//菜单按下背景色
+$tableHoverColor:#e3eefd;// 表格hover背景色
+
+$oneFontColor:#333333;//用于一级信息：标题、正文
+$twoFontColor:#666666;//用于二级信息：文字色
+$threeFontColor:#9B9B9B;//用于三级信息：副文、说明及提示文字
+$hintFontColor:#afbacb;//用于控件内默认提示色
+$lineColor:#e5e5e5;//用于所有的描边颜色，表格类容分割线
+$backgroundColor:#f6f6f6;//用于大面积背景色，控件/按钮不可用背景色，表格斑马线背景色、分割栏
+
+$redColor:#ed5013;//用于错误提示、警示性文字、有风险性按钮、删除按钮、错误边框线、必填项标识色
+$yellowColor:#f0a73a;//用于部分icon颜色、警示辅助提示作用
+$greenColor:#2ed0c3;//用于成功提示、按钮底色、编辑类
+
+
+// 字体相关
+$XXSmallFontSize:12px;
+$XSmallFontSize:14px;
+$smallFontSize:16px;
+$middleFontSize:18px;
+$largeFontSize:20px;
+$XLargeFontSize:22px;
+$XXLargeFontSize:24px;
+$XXXLargeFontSize:26px;
+$XXXXLargeFontSize:32px;
+
+
+// padding
+$smallPadding:5px;
+$middlePadding:10px;
+$largePadding:15px;
+
+// 边距相关
+$pageMargins:15px;//页边距
+$smallBorderRadius:2px;//小页边角圆弧
+$middleBorderRadius:5px;//中页边角圆弧
+$largeBorderRadius:8px;//大页边角圆弧
+$topHeadeHeight:75px;//首页顶部高度
+$queryItemMagin:72px; // 查询条件的边距
+
+
+// 按钮相关
+$largeBtnWidth: 120px; // 大尺寸按钮宽度
+$largeBtnHeight: 40px; // 大尺寸按钮高度
+$mediumBtnWidth: 80px; // 中尺寸按钮宽度
+$mediumBtnHeight: 30px; // 中尺寸按钮高度
+$smallBtnWidth: 56px; // 小尺寸按钮宽度
+$smallBtnHeight: 24px; // 小尺寸按钮高度
+$btnBorderRadius: 2px; //按钮圆角
+$innerBorderRadius: 4px; //按钮圆角
+$paddBtnPadding: 0 16px;// 填充按钮
+$normalBtnPadding: 0 24px;//正常按钮
+
+// 表单相关
+$formItemPadding: 20px; // 每行之间的间距
+$formLabelInputMagin: 10px; // 内容与输入框见的距离
+
+// 表格相关
+$tableHeaderPadding: 20px; // 表格头文字与边框距离
+$tableSelectHover: #E2EEFD; // 表格hover颜色
+$tableRowHeight: 60px; // 表格每行的高度
+
+//监控个性化相关
+$titleFontFamily: PingFangSC-Semibold; //首页标题字体
+$textFontFamily: PingFangSC-Regular; //首页正文字体
+$numberFontFamily: DINAlternate-Bold; //首页数字字体
+$tableFontTotalColor: #4A4A4A; // 表格上方数量字体颜色
+$homeTitleNumberColor: #F8E71C; //首页标题数字颜色
+$homeTitleColor: #000000; //首页标题颜色
+$homeBlueColor: #258AFF;//首页蓝色
+$homeRedColor: #EE667F; //首页红色
+$homeYellowColor: #F5A623; //首页黄色与预警级别颜色：中
+$warnRedColor: #DB5B73; //预警级别颜色：高
+$warnBlueColor: #1087FF; //预警级别颜色：低
+
+//监控-交易处理部分样式
+$transactionGatherHeight:164px;//交易汇总div高度
+$transactionGatherTopHeight:50px;//交易状态汇总
+$transactionGatherBottomHeight:80px;//交易状态汇总

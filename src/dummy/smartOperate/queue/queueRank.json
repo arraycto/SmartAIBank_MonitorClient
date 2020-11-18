@@ -1,0 +1,67 @@
+{
+    "avgWaitTime": "12",
+    "queueTimeRankList": [
+        {
+            "branchName": "科技路支行",
+            "rankNo": 1,
+            "value": 120,
+            "orgid": 120,
+            "rate": 0.053
+        },
+        {
+            "branchName": "子午路支行",
+            "rankNo": 9,
+            "value": 143,
+            "orgid": 120,
+            "rate":0.10
+        },
+        {
+            "branchName": "钟楼支行",
+            "rankNo": 8,
+            "value": 165,
+            "orgid": 120
+        },
+        {
+            "branchName": "凤城二路支行",
+            "rankNo": 7,
+            "value": 186,
+            "orgid": 120,
+            "rate":-0.028
+        },
+        {
+            "branchName": "凤城八路支行",
+            "rankNo": 6,
+            "value": 199,
+            "orgid": 120,
+            "rate":0
+        },
+        {
+            "branchName": "小寨支行",
+            "rankNo": 5,
+            "value": 210,
+            "orgid": 120,
+            "rate":-0.035
+        },
+        {
+            "branchName": "动物园支行",
+            "rankNo": 4,
+            "value": 250,
+            "orgid": 120,
+            "rate":-0.01
+        },
+        {
+            "branchName": "二马路支行",
+            "rankNo": 3,
+            "value": 268,
+            "orgid": 120,
+            "rate":0.029
+        },
+        {
+            "branchName": "大新街支行",
+            "rankNo": 2,
+            "value": 288,
+            "orgid": 120,
+            "rate":0.042
+        }
+    ]
+}

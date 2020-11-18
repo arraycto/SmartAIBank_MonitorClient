@@ -1,0 +1,14 @@
+{
+  "id": "MANAGER",
+  "name": "管理员",
+  "orgId": "08001",
+  "orgLevel": "1",
+  "orgName": "九江银行",
+  "roles": [
+    {
+      "id": "BasicRole",
+      "name": "管理员",
+      "desc": "AS"
+    }
+  ]
+}

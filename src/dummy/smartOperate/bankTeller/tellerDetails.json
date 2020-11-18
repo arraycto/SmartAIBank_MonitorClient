@@ -1,0 +1,516 @@
+{
+    "handleTimeDistributionList": {
+        "value": "12",
+        "rate": "-9",
+        "totalAvg": "0.25",
+        "branchAvg": "0.86",
+        "rankNo": "1",
+        "rankTrend": "0",
+        "distributionList": [
+            {
+                "time": "20191108",
+                "value": "62",
+                "totalAvg": "70",
+                "branchAvg": "120",
+                "rate": 0.33
+            },
+            {
+                "time": "20191209",
+                "value": "99",
+                "totalAvg": "55",
+                "branchAvg": "87",
+                "rate": -0.33
+            },
+            {
+                "time": "20190110",
+                "value": "88",
+                "totalAvg": "66",
+                "branchAvg": "72",
+                "rate": 0
+            },
+            {
+                "time": "20190211",
+                "value": "86",
+                "totalAvg": "62",
+                "branchAvg": "83"
+            },
+            {
+                "time": "20190312",
+                "value": "80",
+                "totalAvg": "49",
+                "branchAvg": "100"
+            },
+            {
+                "time": "20190413",
+                "value": "92",
+                "totalAvg": "62",
+                "branchAvg": "102"
+            },
+            {
+                "time": "20190514",
+                "value": "99",
+                "totalAvg": "72",
+                "branchAvg": "83"
+            },
+            {
+                "time": "20190615",
+                "value": "110",
+                "totalAvg": "121",
+                "branchAvg": "99"
+            },
+            {
+                "time": "20190716",
+                "value": "98",
+                "totalAvg": "98",
+                "branchAvg": "89"
+            },
+            {
+                "time": "20190817",
+                "value": "88",
+                "totalAvg": "73",
+                "branchAvg": "80"
+            },
+            {
+                "time": "20190918",
+                "value": "75",
+                "totalAvg": "79",
+                "branchAvg": "88"
+            },
+            {
+                "time": "20191019",
+                "value": "99",
+                "totalAvg": "62",
+                "branchAvg": "65"
+            }
+        ]
+    },
+    "tranCountDistributionList": {
+        "value": "223",
+        "rate": "-0.23",
+        "totalAvg": "188",
+        "branchAvg": "200",
+        "rankNo": "5",
+        "rankTrend": "1",
+        "distributionList": [
+            {
+                "time": "20191108",
+                "value": "100",
+                "totalAvg": "99",
+                "branchAvg": "89",
+                "rate": 0.33
+            },
+            {
+                "time": "20191209",
+                "value": "150",
+                "totalAvg": "125",
+                "branchAvg": "100",
+                "rate": -0.33
+            },
+            {
+                "time": "20190110",
+                "value": "210",
+                "totalAvg": "166",
+                "branchAvg": "135",
+                "rate": 0
+            },
+            {
+                "time": "20190211",
+                "value": "188",
+                "totalAvg": "152",
+                "branchAvg": "111"
+            },
+            {
+                "time": "20190312",
+                "value": "165",
+                "totalAvg": "132",
+                "branchAvg": "99"
+            },
+            {
+                "time": "20190413",
+                "value": "140",
+                "totalAvg": "111",
+                "branchAvg": "106"
+            },
+            {
+                "time": "20190514",
+                "value": "160",
+                "totalAvg": "153",
+                "branchAvg": "153"
+            },
+            {
+                "time": "20190615",
+                "value": "200",
+                "totalAvg": "163",
+                "branchAvg": "189"
+            },
+            {
+                "time": "20190716",
+                "value": "250",
+                "totalAvg": "186",
+                "branchAvg": "210"
+            },
+            {
+                "time": "20190817",
+                "value": "210",
+                "totalAvg": "120",
+                "branchAvg": "189"
+            },
+            {
+                "time": "20190918",
+                "value": "186",
+                "totalAvg": "162",
+                "branchAvg": "188"
+            },
+            {
+                "time": "20191019",
+                "value": "155",
+                "totalAvg": "125",
+                "branchAvg": "153"
+            }
+        ]
+    },
+    "evaluateRateList": {
+        "percentage": "12",
+        "rate": "-0.9",
+        "totalAvg": "15",
+        "branchAvg": "14",
+        "rankNo": "1",
+        "rankTrend": "0",
+        "distributionList": [
+            {
+                "time": "20191108",
+                "percentage": "62",
+                "totalAvg": "70",
+                "branchAvg": "120",
+                "rate": -0.33
+            },
+            {
+                "time": "20191209",
+                "percentage": "99",
+                "totalAvg": "55",
+                "branchAvg": "87",
+                "rate": 0.33
+            },
+            {
+                "time": "20190110",
+                "percentage": "88",
+                "totalAvg": "66",
+                "branchAvg": "72",
+                "rate": 0
+            },
+            {
+                "time": "20190211",
+                "percentage": "86",
+                "totalAvg": "62",
+                "branchAvg": "83"
+            },
+            {
+                "time": "20190312",
+                "percentage": "80",
+                "totalAvg": "49",
+                "branchAvg": "100"
+            },
+            {
+                "time": "20190413",
+                "percentage": "92",
+                "totalAvg": "62",
+                "branchAvg": "102"
+            },
+            {
+                "time": "20190514",
+                "percentage": "99",
+                "totalAvg": "72",
+                "branchAvg": "83"
+            },
+            {
+                "time": "20190615",
+                "percentage": "110",
+                "totalAvg": "121",
+                "branchAvg": "99"
+            },
+            {
+                "time": "20190716",
+                "percentage": "98",
+                "totalAvg": "98",
+                "branchAvg": "89"
+            },
+            {
+                "time": "20190817",
+                "percentage": "88",
+                "totalAvg": "73",
+                "branchAvg": "80"
+            },
+            {
+                "time": "20190918",
+                "percentage": "75",
+                "totalAvg": "79",
+                "branchAvg": "88"
+            },
+            {
+                "time": "20191019",
+                "percentage": "99",
+                "totalAvg": "62",
+                "branchAvg": "65"
+            }
+        ]
+    },
+    "positiveRateList": {
+        "percentage": "12",
+        "rate": "-0.9",
+        "totalAvg": "15",
+        "branchAvg": "14",
+        "rankNo": "1",
+        "rankTrend": "0",
+        "distributionList": [
+            {
+                "time": "20191108",
+                "percentage": "62",
+                "totalAvg": "70",
+                "branchAvg": "120",
+                "rate": 0.33
+            },
+            {
+                "time": "20191209",
+                "percentage": "99",
+                "totalAvg": "55",
+                "branchAvg": "87",
+                "rate": -0.33
+            },
+            {
+                "time": "20190110",
+                "percentage": "88",
+                "totalAvg": "66",
+                "branchAvg": "72",
+                "rate": 0
+            },
+            {
+                "time": "20190211",
+                "percentage": "86",
+                "totalAvg": "62",
+                "branchAvg": "83"
+            },
+            {
+                "time": "20190312",
+                "percentage": "80",
+                "totalAvg": "49",
+                "branchAvg": "100"
+            },
+            {
+                "time": "20190413",
+                "percentage": "92",
+                "totalAvg": "62",
+                "branchAvg": "102"
+            },
+            {
+                "time": "20190514",
+                "percentage": "99",
+                "totalAvg": "72",
+                "branchAvg": "83"
+            },
+            {
+                "time": "20190615",
+                "percentage": "110",
+                "totalAvg": "121",
+                "branchAvg": "99"
+            },
+            {
+                "time": "20190716",
+                "percentage": "98",
+                "totalAvg": "98",
+                "branchAvg": "89"
+            },
+            {
+                "time": "20190817",
+                "percentage": "88",
+                "totalAvg": "73",
+                "branchAvg": "80"
+            },
+            {
+                "time": "20190918",
+                "percentage": "75",
+                "totalAvg": "79",
+                "branchAvg": "88"
+            },
+            {
+                "time": "20191019",
+                "percentage": "99",
+                "totalAvg": "62",
+                "branchAvg": "65"
+            }
+        ]
+    },
+    "negativeRateList": {
+        "percentage": "12",
+        "rate": "-0.9",
+        "totalAvg": "15",
+        "branchAvg": "14",
+        "rankNo": "1",
+        "rankTrend": "0",
+        "distributionList": [
+            {
+                "time": "20191108",
+                "percentage": "62",
+                "totalAvg": "70",
+                "branchAvg": "120",
+                "rate": 0.33
+            },
+            {
+                "time": "20191209",
+                "percentage": "99",
+                "totalAvg": "55",
+                "branchAvg": "87",
+                "rate": -0.33
+            },
+            {
+                "time": "20190110",
+                "percentage": "88",
+                "totalAvg": "66",
+                "branchAvg": "72",
+                "rate": 0
+            },
+            {
+                "time": "20190211",
+                "percentage": "86",
+                "totalAvg": "62",
+                "branchAvg": "83"
+            },
+            {
+                "time": "20190312",
+                "percentage": "80",
+                "totalAvg": "49",
+                "branchAvg": "100"
+            },
+            {
+                "time": "20190413",
+                "percentage": "92",
+                "totalAvg": "62",
+                "branchAvg": "102"
+            },
+            {
+                "time": "20190514",
+                "percentage": "99",
+                "totalAvg": "72",
+                "branchAvg": "83"
+            },
+            {
+                "time": "20190615",
+                "percentage": "110",
+                "totalAvg": "121",
+                "branchAvg": "99"
+            },
+            {
+                "time": "20190716",
+                "percentage": "98",
+                "totalAvg": "98",
+                "branchAvg": "89"
+            },
+            {
+                "time": "20190817",
+                "percentage": "88",
+                "totalAvg": "73",
+                "branchAvg": "80"
+            },
+            {
+                "time": "20190918",
+                "percentage": "75",
+                "totalAvg": "79",
+                "branchAvg": "88"
+            },
+            {
+                "time": "20191019",
+                "percentage": "99",
+                "totalAvg": "62",
+                "branchAvg": "65"
+            }
+        ]
+    },
+    "ranTop20HandleTimeList": [
+        {
+            "tranCode": "2532",
+            "tranName": "个人开户",
+            "value": "120",
+            "totalAvg": "130",
+            "branchAvg": "186",
+            "rate": -0.33
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "转账",
+            "value": "130",
+            "totalAvg": "153",
+            "branchAvg": "153",
+            "rate": 0.33
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "理财签约",
+            "value": "169",
+            "totalAvg": "186",
+            "branchAvg": "144",
+            "rate": 0
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "客户信息修改",
+            "value": "153",
+            "totalAvg": "153",
+            "branchAvg": "129"
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "个人开户",
+            "value": "120",
+            "totalAvg": "130",
+            "branchAvg": "186"
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "转账",
+            "value": "130",
+            "totalAvg": "153",
+            "branchAvg": "153"
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "理财签约",
+            "value": "169",
+            "totalAvg": "186",
+            "branchAvg": "144"
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "客户信息修改",
+            "value": "153",
+            "totalAvg": "153",
+            "branchAvg": "129"
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "个人开户",
+            "value": "120",
+            "totalAvg": "130",
+            "branchAvg": "186"
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "转账",
+            "value": "130",
+            "totalAvg": "153",
+            "branchAvg": "153"
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "理财签约",
+            "value": "169",
+            "totalAvg": "186",
+            "branchAvg": "144"
+        },
+        {
+            "tranCode": "2532",
+            "tranName": "客户信息修改",
+            "value": "153",
+            "totalAvg": "153",
+            "branchAvg": "129"
+        }
+    ]
+}

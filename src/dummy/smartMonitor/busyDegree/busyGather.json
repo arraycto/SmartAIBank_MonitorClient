@@ -1,0 +1,21 @@
+{
+	"avgWaitingTime": 0,
+	"avgWindowWaitingCustomers": 0,
+	"busyCount": 0,
+	"busyRate": 0,
+	"idleCount": 0,
+	"idleRate": 0,
+	"maxWaitingTime": 0,
+	"maxWaitingTimeBranchId": "100011",
+	"maxWaitingTimeBranchName": "科技二路支行",
+	"normalCount": 0,
+	"normalRate": 0,
+	"openWindowsCount": 0,
+	"saturationCount": 0,
+	"saturationRate": 0,
+	"totalCount": 200,
+	"unopenedCount": 150,
+	"unopenedRate": 22.22,
+	"unopenedWindowsCount": 0,
+	"waitingCustomers": 0
+}

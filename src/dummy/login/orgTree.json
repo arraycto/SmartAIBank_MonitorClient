@@ -1,0 +1,1849 @@
+[
+    {
+      "orgId": "08001",
+      "orgNameCn": "九江银行",
+      "orgLevelId": "1",
+      "orgTypeId":"3",
+      "address": "CHN6100006101006101131"
+    },
+    {
+      "orgId": "08700",
+      "orgNameCn": "总行机关部室",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360400360403长虹大道609号"
+    },
+    {
+      "orgId": "22800",
+      "orgNameCn": "景德镇分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360200360203里村花园197号"
+    },
+    {
+      "orgId": "22701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "22800",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360200360203里村花园197号"
+    },
+    {
+      "orgId": "22603",
+      "orgNameCn": "戴家弄社区支行",
+      "businessSuperior": "22701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360200360203戴家弄明珠园一层10A商铺"
+    },
+    {
+      "orgId": "22702",
+      "orgNameCn": "乐平支行",
+      "businessSuperior": "22800",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360200360281乐平大道1号（大地阳光城）"
+    },
+    {
+      "orgId": "22601",
+      "orgNameCn": "福泰华庭社区银行",
+      "businessSuperior": "22702",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360100360102213"
+    },
+    {
+      "orgId": "22706",
+      "orgNameCn": "洎阳支行",
+      "businessSuperior": "22702",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360200360281洎阳中路41号"
+    },
+    {
+      "orgId": "22703",
+      "orgNameCn": "昌南支行",
+      "businessSuperior": "22800",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360200360281瓷都大道708号玉兰宝都"
+    },
+    {
+      "orgId": "22604",
+      "orgNameCn": "人民公园社区支行",
+      "businessSuperior": "22703",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360200360202瓷都大道人民公园金岸名都B1栋11号"
+    },
+    {
+      "orgId": "22704",
+      "orgNameCn": "珠山支行",
+      "businessSuperior": "22800",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360200360281广场南路36号豪景花园1栋101号"
+    },
+    {
+      "orgId": "22602",
+      "orgNameCn": "昌河社区支行",
+      "businessSuperior": "22704",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360200null昌河汽配有限公司办公楼一楼"
+    },
+    {
+      "orgId": "22705",
+      "orgNameCn": "新厂支行",
+      "businessSuperior": "22800",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360200360281林荫路3号"
+    },
+    {
+      "orgId": "22605",
+      "orgNameCn": "景德镇梨树园社区支行",
+      "businessSuperior": "22705",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360200360203广场北路610号"
+    },
+    {
+      "orgId": "22707",
+      "orgNameCn": "浮梁支行",
+      "businessSuperior": "22800",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360200360222城民福路6号"
+    },
+    {
+      "orgId": "23205",
+      "orgNameCn": "赣江新区分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360101经开区双杠西大街528号"
+    },
+    {
+      "orgId": "23701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "23205",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360101经开区双杠西大街528号"
+    },
+    {
+      "orgId": "26503",
+      "orgNameCn": "新余分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360500360502仙来东大道720号"
+    },
+    {
+      "orgId": "26701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "26503",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360500360502仙来东大道720号"
+    },
+    {
+      "orgId": "26703",
+      "orgNameCn": "渝水支行",
+      "businessSuperior": "26503",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360500360502抱石东大道56号1栋107、108、109、110号店铺"
+    },
+    {
+      "orgId": "26704",
+      "orgNameCn": "分宜支行",
+      "businessSuperior": "26503",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360500360521钤山西路7号"
+    },
+    {
+      "orgId": "27504",
+      "orgNameCn": "鹰潭分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360600360602胜利西路31号美亚汇金广场九江银行鹰潭分行"
+    },
+    {
+      "orgId": "27701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "27504",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360600360602胜利西路31号美亚汇金广场九江银行鹰潭分行"
+    },
+    {
+      "orgId": "27601",
+      "orgNameCn": "鹰潭恒大社区支行",
+      "businessSuperior": "27701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360600360602信江新区麒麟东大道1号供水公司2号楼（恒大绿洲一期车库出口对面）"
+    },
+    {
+      "orgId": "27703",
+      "orgNameCn": "贵溪支行",
+      "businessSuperior": "27504",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360600360681雄石东路以北东门路以西新都汇8栋（阳光豪庭对面）"
+    },
+    {
+      "orgId": "27704",
+      "orgNameCn": "余江支行",
+      "businessSuperior": "27504",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360600360622白塔中路27号"
+    },
+    {
+      "orgId": "27705",
+      "orgNameCn": "月湖支行",
+      "businessSuperior": "27504",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360600360602胜利西路31号美亚汇金广场"
+    },
+    {
+      "orgId": "28203",
+      "orgNameCn": "赣州分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360702赞贤路9号"
+    },
+    {
+      "orgId": "28701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360702赞贤路9号"
+    },
+    {
+      "orgId": "28601",
+      "orgNameCn": "文清路社区银行",
+      "businessSuperior": "28701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360700360702文清路77号附2号、3号环美嘉园店面（赣州公园对面）"
+    },
+    {
+      "orgId": "28602",
+      "orgNameCn": "黄屋坪路社区银行",
+      "businessSuperior": "28701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360700360702黄屋坪路45号“康馨家园”C栋店10#(鹭江花园小区对面)"
+    },
+    {
+      "orgId": "28603",
+      "orgNameCn": "赣州迎宾大道社区支行",
+      "businessSuperior": "28701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360700360701迎宾大道与105国道交汇处天赐良缘A2栋8#店面"
+    },
+    {
+      "orgId": "28604",
+      "orgNameCn": "赣州国际时代广场社区支行",
+      "businessSuperior": "28701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360700360702红旗大道94号国际时代广场12号楼6#店面"
+    },
+    {
+      "orgId": "28605",
+      "orgNameCn": "赣州大公路社区支行",
+      "businessSuperior": "28701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360700360702大公路123号"
+    },
+    {
+      "orgId": "28606",
+      "orgNameCn": "赣州东阳山路社区支行",
+      "businessSuperior": "28701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360700360702东阳山路29号"
+    },
+    {
+      "orgId": "28607",
+      "orgNameCn": "赣州五洲大道社区支行",
+      "businessSuperior": "28701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360700360702五洲大道15号3栋6#店面"
+    },
+    {
+      "orgId": "28608",
+      "orgNameCn": "赣州红旗大道社区支行",
+      "businessSuperior": "28701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360700360702红旗大道46号国经大厦1-7、1-8号门面"
+    },
+    {
+      "orgId": "28609",
+      "orgNameCn": "赣州沙河大道社区支行",
+      "businessSuperior": "28701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360700360702沙河大道53号"
+    },
+    {
+      "orgId": "28702",
+      "orgNameCn": "赣县支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360721灌樱路1号临双龙大道西侧赣县总部经济大楼"
+    },
+    {
+      "orgId": "28703",
+      "orgNameCn": "于都支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360731渡江大道北侧金水湾御景豪园一期"
+    },
+    {
+      "orgId": "28704",
+      "orgNameCn": "信丰支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360722阳明北路16号"
+    },
+    {
+      "orgId": "28705",
+      "orgNameCn": "瑞金支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360781象湖镇红都大道金源大厦"
+    },
+    {
+      "orgId": "28706",
+      "orgNameCn": "宁都支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360730中山大道南鑫花园（法院对面）"
+    },
+    {
+      "orgId": "28707",
+      "orgNameCn": "全南支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360729新城沿江路临街4-6号商铺"
+    },
+    {
+      "orgId": "28709",
+      "orgNameCn": "龙南支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360727龙翔大道中央城西侧店面"
+    },
+    {
+      "orgId": "28710",
+      "orgNameCn": "安远支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360726九龙大道中央公园售楼部门面（体育馆对面）"
+    },
+    {
+      "orgId": "28711",
+      "orgNameCn": "兴国支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360732潋江镇平川大道75号"
+    },
+    {
+      "orgId": "28712",
+      "orgNameCn": "上犹支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360724东山镇五指峰大道与赣丰路交汇处旅游文化城"
+    },
+    {
+      "orgId": "28713",
+      "orgNameCn": "会昌支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360733红旗大道与九洲大道交汇处财富中心一楼"
+    },
+    {
+      "orgId": "28714",
+      "orgNameCn": "大余支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360723南安镇牡丹苑E栋一楼1-5号、二楼1-2号店面"
+    },
+    {
+      "orgId": "28715",
+      "orgNameCn": "大余支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360723南安镇甘棠元"
+    },
+    {
+      "orgId": "28716",
+      "orgNameCn": "大余支行",
+      "businessSuperior": "28203",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360700360723南安镇甘棠元"
+    },
+    {
+      "orgId": "29204",
+      "orgNameCn": "萍乡分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360300360302跃进北路121号"
+    },
+    {
+      "orgId": "29701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "29204",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360300360302跃进北路121号"
+    },
+    {
+      "orgId": "29601",
+      "orgNameCn": "萍乡城南社区支行",
+      "businessSuperior": "29701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360300360302东大街南台脚下34号"
+    },
+    {
+      "orgId": "29702",
+      "orgNameCn": "莲花支行",
+      "businessSuperior": "29204",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360300360321永安路186号"
+    },
+    {
+      "orgId": "29703",
+      "orgNameCn": "芦溪支行",
+      "businessSuperior": "29204",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360300360323凌云南路106号"
+    },
+    {
+      "orgId": "29704",
+      "orgNameCn": "湘东支行",
+      "businessSuperior": "29204",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360300360313步行街11-115号"
+    },
+    {
+      "orgId": "29705",
+      "orgNameCn": "上栗支行",
+      "businessSuperior": "29204",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360300360322上栗镇平安北路90号"
+    },
+    {
+      "orgId": "29706",
+      "orgNameCn": "萍乡开发区支行",
+      "businessSuperior": "29204",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360300360301经济技术开发区安源中大道19号"
+    },
+    {
+      "orgId": "29602",
+      "orgNameCn": "萍乡万龙湾社区支行",
+      "businessSuperior": "29706",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360300360301开发区公园中路101号"
+    },
+    {
+      "orgId": "33202",
+      "orgNameCn": "上饶分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361102五三大道87号"
+    },
+    {
+      "orgId": "33701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361102五三大道87号"
+    },
+    {
+      "orgId": "33603",
+      "orgNameCn": "带湖路社区支行",
+      "businessSuperior": "33701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000361100361102带湖路22号综合楼"
+    },
+    {
+      "orgId": "33604",
+      "orgNameCn": "明珠广场社区支行",
+      "businessSuperior": "33701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000361100361102庆丰路21号明珠商业广场1-2号店面"
+    },
+    {
+      "orgId": "33605",
+      "orgNameCn": "中山路社区支行",
+      "businessSuperior": "33701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000361100361102中山路12号西边1-3间店面"
+    },
+    {
+      "orgId": "33606",
+      "orgNameCn": "上饶万达广场社区支行",
+      "businessSuperior": "33701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000361100361102滨江西路万达广场29栋1-208、209"
+    },
+    {
+      "orgId": "33702",
+      "orgNameCn": "广丰支行",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361122永丰大道30、32、34号"
+    },
+    {
+      "orgId": "33703",
+      "orgNameCn": "余干支行",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361127玉亭镇四牌楼路A1栋8-12号"
+    },
+    {
+      "orgId": "33704",
+      "orgNameCn": "万年支行",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361129六〇北路33号店面北栋"
+    },
+    {
+      "orgId": "33705",
+      "orgNameCn": "上饶县支行",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361121旭日南大道33号"
+    },
+    {
+      "orgId": "33706",
+      "orgNameCn": "德兴支行",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361181福泰商业广场（聚远大道与银城南路交汇处）"
+    },
+    {
+      "orgId": "33707",
+      "orgNameCn": "鄱阳支行",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361128鄱阳镇车站路商业街D1-D5栋"
+    },
+    {
+      "orgId": "33708",
+      "orgNameCn": "玉山支行",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361123三清山大道172号"
+    },
+    {
+      "orgId": "33709",
+      "orgNameCn": "婺源支行",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361130紫阳镇文公北路162号"
+    },
+    {
+      "orgId": "33710",
+      "orgNameCn": "弋阳支行",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361126弋江镇广场路8、10、12号"
+    },
+    {
+      "orgId": "33711",
+      "orgNameCn": "铅山支行",
+      "businessSuperior": "33202",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361100361124河口镇狮江大道狮江社区48号"
+    },
+    {
+      "orgId": "43500",
+      "orgNameCn": "宜春分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360902袁山中路206号"
+    },
+    {
+      "orgId": "43701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360902袁山中路206号"
+    },
+    {
+      "orgId": "43713",
+      "orgNameCn": "宜春东风小微支行",
+      "businessSuperior": "43701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360900360902宜阳大道103号"
+    },
+    {
+      "orgId": "43702",
+      "orgNameCn": "高安支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360983桥北路331号"
+    },
+    {
+      "orgId": "43712",
+      "orgNameCn": "高安瑞州小微支行",
+      "businessSuperior": "43702",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360900360983瑞阳大道青城林语店铺A02号"
+    },
+    {
+      "orgId": "43703",
+      "orgNameCn": "丰城支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360981新城区紫云大道181号"
+    },
+    {
+      "orgId": "43709",
+      "orgNameCn": "剑邑支行",
+      "businessSuperior": "43703",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360900360981解放南路88号"
+    },
+    {
+      "orgId": "43704",
+      "orgNameCn": "樟树支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360982药都南大道156号"
+    },
+    {
+      "orgId": "43714",
+      "orgNameCn": "樟树锦绣共和小微支行",
+      "businessSuperior": "43704",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360900360982楼门前18号"
+    },
+    {
+      "orgId": "43705",
+      "orgNameCn": "上高支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360923敖山大道15号"
+    },
+    {
+      "orgId": "43706",
+      "orgNameCn": "奉新支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360923袁山中路207号"
+    },
+    {
+      "orgId": "43707",
+      "orgNameCn": "万载支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360922宝塔东路135号"
+    },
+    {
+      "orgId": "43708",
+      "orgNameCn": "袁州支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360902宜春南路368号"
+    },
+    {
+      "orgId": "43603",
+      "orgNameCn": "宜春双桥社区支行",
+      "businessSuperior": "43708",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360900360902宜春北路69号"
+    },
+    {
+      "orgId": "43710",
+      "orgNameCn": "铜鼓支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360926定江东路605号"
+    },
+    {
+      "orgId": "43711",
+      "orgNameCn": "宜丰支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360924新昌镇渊明南大道17号"
+    },
+    {
+      "orgId": "43715",
+      "orgNameCn": "靖安支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360925登高路8号"
+    },
+    {
+      "orgId": "43716",
+      "orgNameCn": "十运支行",
+      "businessSuperior": "43500",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360900360902袁山中路206号"
+    },
+    {
+      "orgId": "58201",
+      "orgNameCn": "广州分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440106黄埔大道西108号奥园大厦十楼"
+    },
+    {
+      "orgId": "58701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "58201",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440106黄埔大道西108号奥园大厦十楼"
+    },
+    {
+      "orgId": "58606",
+      "orgNameCn": "广州华景新城社区支行",
+      "businessSuperior": "58701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN440000440100440106华景北路163号商铺"
+    },
+    {
+      "orgId": "58702",
+      "orgNameCn": "荔湾支行",
+      "businessSuperior": "58201",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440103黄沙大道11、13号101首层及201"
+    },
+    {
+      "orgId": "58601",
+      "orgNameCn": "金融街社区支行",
+      "businessSuperior": "58702",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN440000440100440104广州市越秀区果菜直街14号101房A区"
+    },
+    {
+      "orgId": "58703",
+      "orgNameCn": "海珠支行",
+      "businessSuperior": "58201",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440105逸景路278号101铺及201铺"
+    },
+    {
+      "orgId": "58605",
+      "orgNameCn": "广州怡乐路社区支行",
+      "businessSuperior": "58703",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN440000440100440105怡乐路70号大院8-10号103房自编5号"
+    },
+    {
+      "orgId": "58704",
+      "orgNameCn": "广园支行",
+      "businessSuperior": "58201",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440106濂泉路27号自编2C188号"
+    },
+    {
+      "orgId": "58603",
+      "orgNameCn": "天平装饰材料城社区支行",
+      "businessSuperior": "58704",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN440000440100440106广州市天河区广州大道北512号天平装饰材料城2101号"
+    },
+    {
+      "orgId": "58705",
+      "orgNameCn": "环市支行",
+      "businessSuperior": "58201",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440104环市东路475号"
+    },
+    {
+      "orgId": "58604",
+      "orgNameCn": "广州建设路社区支行",
+      "businessSuperior": "58705",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN440000440100440104建设四马路21-1号首层"
+    },
+    {
+      "orgId": "58706",
+      "orgNameCn": "海印支行",
+      "businessSuperior": "58201",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440104大沙头路33号101房自编之二"
+    },
+    {
+      "orgId": "58602",
+      "orgNameCn": "江湾社区支行",
+      "businessSuperior": "58706",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN440000440100440104广州市越秀区沿江中路341号101房"
+    },
+    {
+      "orgId": "58707",
+      "orgNameCn": "江南支行",
+      "businessSuperior": "58201",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440105昌岗中路188号合生帝景国际首层"
+    },
+    {
+      "orgId": "58708",
+      "orgNameCn": "番禺支行",
+      "businessSuperior": "58201",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440113大石街怡景花园B幢首层九江银行"
+    },
+    {
+      "orgId": "58607",
+      "orgNameCn": "广州番禺万达广场社区支行",
+      "businessSuperior": "58708",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN440000440100440113南村镇汇智三路82号"
+    },
+    {
+      "orgId": "58709",
+      "orgNameCn": "广州开发区支行",
+      "businessSuperior": "58201",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440101开发区科丰路79号121-124房"
+    },
+    {
+      "orgId": "58710",
+      "orgNameCn": "广州增城支行",
+      "businessSuperior": "58201",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440118新塘镇新塘大道中1号首层102号自编6、7、8号商铺"
+    },
+    {
+      "orgId": "59505",
+      "orgNameCn": "广自贸试验区南沙支行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440115丰泽东路106号（自编1号楼）"
+    },
+    {
+      "orgId": "59701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "59505",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN440000440100440115丰泽东路106号城投大厦一楼"
+    },
+    {
+      "orgId": "61600",
+      "orgNameCn": "合肥分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340103濉溪路287号金鼎广场B座"
+    },
+    {
+      "orgId": "61701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "61600",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340103濉溪路287号金鼎广场B座"
+    },
+    {
+      "orgId": "61602",
+      "orgNameCn": "世纪家园社区支行",
+      "businessSuperior": "61701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN340000340100340103亳州路1号世纪家园小区13栋7号门面"
+    },
+    {
+      "orgId": "61702",
+      "orgNameCn": "瑶海支行",
+      "businessSuperior": "61600",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340103全椒路105号景荣花园商铺"
+    },
+    {
+      "orgId": "61605",
+      "orgNameCn": "合肥万绿园社区支行",
+      "businessSuperior": "61702",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN340000340100340102定远路与凤阳路交口橘郡万绿园4期102门面"
+    },
+    {
+      "orgId": "61703",
+      "orgNameCn": "望江西路支行",
+      "businessSuperior": "61600",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340104蜀山区望江西路159号"
+    },
+    {
+      "orgId": "61704",
+      "orgNameCn": "庐江支行",
+      "businessSuperior": "61600",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340124庐江县庐城镇文昌东路1号博金广场1-6号商铺"
+    },
+    {
+      "orgId": "61604",
+      "orgNameCn": "庐江学苑小区社区支行",
+      "businessSuperior": "61704",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN340000340100340124塔山西路学苑小区104-106三间"
+    },
+    {
+      "orgId": "61705",
+      "orgNameCn": "包河支行",
+      "businessSuperior": "61600",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340111包河区繁华大道与北京路交叉口水丽坊商业街"
+    },
+    {
+      "orgId": "61603",
+      "orgNameCn": "碧湖花园社区支行",
+      "businessSuperior": "61705",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN340000340100340101经济技术开发区桃花工业园区习友路与紫鹏路交口南艳*碧湖花园25栋1层113门面"
+    },
+    {
+      "orgId": "61706",
+      "orgNameCn": "屯溪路支行",
+      "businessSuperior": "61600",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340111包河区屯溪路369号"
+    },
+    {
+      "orgId": "61601",
+      "orgNameCn": "合肥西园新村社区支行",
+      "businessSuperior": "61706",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN340000340100340104西园路16号106室"
+    },
+    {
+      "orgId": "61707",
+      "orgNameCn": "金潜支行",
+      "businessSuperior": "61600",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340111政务区金寨路和潜山路交口金潜广场商业商109、商110室"
+    },
+    {
+      "orgId": "61606",
+      "orgNameCn": "合肥蓝色湖畔社区支行",
+      "businessSuperior": "61707",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN340000340100340101经济技术开发区翡翠路与丹霞路交口蓝色湖畔11憧107/207室"
+    },
+    {
+      "orgId": "61708",
+      "orgNameCn": "肥西支行",
+      "businessSuperior": "61600",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340123人民东路与环城东路交口"
+    },
+    {
+      "orgId": "61709",
+      "orgNameCn": "合肥当涂路支行",
+      "businessSuperior": "61600",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340111望江东路149号"
+    },
+    {
+      "orgId": "61710",
+      "orgNameCn": "合肥临泉东路支行",
+      "businessSuperior": "61600",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN340000340100340102临泉路与和县路交口合肥瑶海万达广场4幢写字楼"
+    },
+    {
+      "orgId": "72100",
+      "orgNameCn": "九江分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360400360403长虹大道609号"
+    },
+    {
+      "orgId": "72701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null长虹大道619号"
+    },
+    {
+      "orgId": "72702",
+      "orgNameCn": "滨江支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null南湖支路19号"
+    },
+    {
+      "orgId": "72703",
+      "orgNameCn": "开发区支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null开发区长城路18号桂花苑小区1号楼首层"
+    },
+    {
+      "orgId": "72704",
+      "orgNameCn": "白水湖支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null长虹北路黄氏干菜批发市场1栋008号"
+    },
+    {
+      "orgId": "72706",
+      "orgNameCn": "三里街支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null浔阳东路109号"
+    },
+    {
+      "orgId": "72707",
+      "orgNameCn": "光华支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null浔阳区庐峰东路57号"
+    },
+    {
+      "orgId": "72708",
+      "orgNameCn": "湓浦支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null浔阳路17号"
+    },
+    {
+      "orgId": "72709",
+      "orgNameCn": "甘棠支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null甘棠北路185号"
+    },
+    {
+      "orgId": "72710",
+      "orgNameCn": "柴桑支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null大中路391号"
+    },
+    {
+      "orgId": "72711",
+      "orgNameCn": "大校场支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null南湖路108号"
+    },
+    {
+      "orgId": "72712",
+      "orgNameCn": "大中路支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null大中路205号"
+    },
+    {
+      "orgId": "72713",
+      "orgNameCn": "振劳支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null九龙街锦锈家园A7-8号"
+    },
+    {
+      "orgId": "72715",
+      "orgNameCn": "滨兴支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null新桥头三兴花园E11-13号门面"
+    },
+    {
+      "orgId": "72716",
+      "orgNameCn": "长江支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null庐山南路189#A栋"
+    },
+    {
+      "orgId": "72717",
+      "orgNameCn": "公园支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null十里大道103号"
+    },
+    {
+      "orgId": "72718",
+      "orgNameCn": "九龙支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null庐山路339号"
+    },
+    {
+      "orgId": "72719",
+      "orgNameCn": "长虹支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null十里大道安福大厦B02-04号"
+    },
+    {
+      "orgId": "72720",
+      "orgNameCn": "十里支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null庐山区十里大道浔海十里蓝山"
+    },
+    {
+      "orgId": "72721",
+      "orgNameCn": "庐山支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null庐山牯岭街13号"
+    },
+    {
+      "orgId": "72722",
+      "orgNameCn": "瑞昌支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null瑞昌市市府西路鸿禧苑1号"
+    },
+    {
+      "orgId": "72734",
+      "orgNameCn": "湓城支行",
+      "businessSuperior": "72722",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360400null瑞昌市赤乌中路联盛国际A1区103-105号"
+    },
+    {
+      "orgId": "72723",
+      "orgNameCn": "德安支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null德安县宝塔大道金环新城135号"
+    },
+    {
+      "orgId": "72740",
+      "orgNameCn": "蒲亭支行",
+      "businessSuperior": "72723",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360400nullnull"
+    },
+    {
+      "orgId": "72724",
+      "orgNameCn": "修水支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null宁红大道619号"
+    },
+    {
+      "orgId": "72735",
+      "orgNameCn": "城北支行",
+      "businessSuperior": "72724",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360400null沿江路219号"
+    },
+    {
+      "orgId": "72725",
+      "orgNameCn": "永修支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null永修县建昌大道与白莲路交汇处"
+    },
+    {
+      "orgId": "72736",
+      "orgNameCn": "建昌支行",
+      "businessSuperior": "72725",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360400null永修县建昌大道山水美地16幢"
+    },
+    {
+      "orgId": "72726",
+      "orgNameCn": "沙河支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null九江县庐山西路263号"
+    },
+    {
+      "orgId": "72738",
+      "orgNameCn": "江州支行",
+      "businessSuperior": "72726",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360400null九江县柴桑北路245号"
+    },
+    {
+      "orgId": "72727",
+      "orgNameCn": "都昌支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null都昌县东风大道888号"
+    },
+    {
+      "orgId": "72606",
+      "orgNameCn": "都昌金都社区支行",
+      "businessSuperior": "72727",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360400null都昌县西湖金都6-7号楼一楼"
+    },
+    {
+      "orgId": "72742",
+      "orgNameCn": "万里支行",
+      "businessSuperior": "72727",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360400360428万里大道南侧（县妇幼保健院正对面）"
+    },
+    {
+      "orgId": "72728",
+      "orgNameCn": "彭泽支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null彭泽县龙城大道榕昌大厦"
+    },
+    {
+      "orgId": "72729",
+      "orgNameCn": "浔阳支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null滨江路619号"
+    },
+    {
+      "orgId": "72730",
+      "orgNameCn": "武宁支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null武宁县豫宁大道57号"
+    },
+    {
+      "orgId": "72741",
+      "orgNameCn": "豫宁支行",
+      "businessSuperior": "72730",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360400360423县豫宁大道57号"
+    },
+    {
+      "orgId": "72731",
+      "orgNameCn": "共青支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null共青城开放开发区共青路1号"
+    },
+    {
+      "orgId": "72608",
+      "orgNameCn": "南大社区支行",
+      "businessSuperior": "72731",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360400360482南湖大道壹街区15号和23号门面"
+    },
+    {
+      "orgId": "72732",
+      "orgNameCn": "星子支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null星子县柳絮路401号"
+    },
+    {
+      "orgId": "72733",
+      "orgNameCn": "湖口支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null湖口县石钟山大道湖口县农业局办公大楼"
+    },
+    {
+      "orgId": "72605",
+      "orgNameCn": "湖口台山社区支行",
+      "businessSuperior": "72733",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360400360429台山大道11幢西4号门面"
+    },
+    {
+      "orgId": "72737",
+      "orgNameCn": "八里湖支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null中体奥林匹克花园小区106、107商铺"
+    },
+    {
+      "orgId": "72739",
+      "orgNameCn": "浔东支行",
+      "businessSuperior": "72100",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360400null庐山区庐山大道72号信华庐山苑商铺"
+    },
+    {
+      "orgId": "75200",
+      "orgNameCn": "吉安分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360802井冈山大道新196号"
+    },
+    {
+      "orgId": "75701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360802井冈山大道新196号"
+    },
+    {
+      "orgId": "75702",
+      "orgNameCn": "泰和支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360826白凤大道37号"
+    },
+    {
+      "orgId": "75605",
+      "orgNameCn": "泰和中山社区银行",
+      "businessSuperior": "75702",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360800360825泰和县工农兵大道粤泰小区门口"
+    },
+    {
+      "orgId": "75703",
+      "orgNameCn": "安福支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360829武功山大道101号"
+    },
+    {
+      "orgId": "75604",
+      "orgNameCn": "安福安成社区银行",
+      "businessSuperior": "75703",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360800360825安福县富瑞浅水湾小区御景苑18栋58、59号"
+    },
+    {
+      "orgId": "75704",
+      "orgNameCn": "吉州支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360802阳明东路7号"
+    },
+    {
+      "orgId": "75601",
+      "orgNameCn": "吉安北门社区银行",
+      "businessSuperior": "75704",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360800360825吉州区大桥西路2号商务楼2幢店面1-01室东"
+    },
+    {
+      "orgId": "75705",
+      "orgNameCn": "吉水支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360822文水路150号"
+    },
+    {
+      "orgId": "75603",
+      "orgNameCn": "吉水龙华社区银行",
+      "businessSuperior": "75705",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360800360825吉水县龙华中大道126号"
+    },
+    {
+      "orgId": "75706",
+      "orgNameCn": "新干支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360824中山路26号"
+    },
+    {
+      "orgId": "75606",
+      "orgNameCn": "新干城南社区银行",
+      "businessSuperior": "75706",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360800360825新干县城南新区沁新苑淦中路5号"
+    },
+    {
+      "orgId": "75707",
+      "orgNameCn": "永新支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360830湘赣大道69号"
+    },
+    {
+      "orgId": "75708",
+      "orgNameCn": "青原支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360803豪德星城A栋-105"
+    },
+    {
+      "orgId": "75602",
+      "orgNameCn": "青原天和社区银行",
+      "businessSuperior": "75708",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360800360825青原区青原大道东侧和济春天36、37号楼111号商铺"
+    },
+    {
+      "orgId": "75709",
+      "orgNameCn": "永丰支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360825佐龙大道166号"
+    },
+    {
+      "orgId": "75710",
+      "orgNameCn": "广场支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360802井冈山大道157号"
+    },
+    {
+      "orgId": "75711",
+      "orgNameCn": "遂川支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360827工农兵大道6号"
+    },
+    {
+      "orgId": "75712",
+      "orgNameCn": "吉安支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360821文山路24号"
+    },
+    {
+      "orgId": "75713",
+      "orgNameCn": "万安支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360828五云路386号"
+    },
+    {
+      "orgId": "75714",
+      "orgNameCn": "峡江支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360823玉笥大道52号"
+    },
+    {
+      "orgId": "75718",
+      "orgNameCn": "井冈山支行",
+      "businessSuperior": "75200",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360800360881黄洋界大道64号凯旋时代广场1号楼A1001-A1004号商铺"
+    },
+    {
+      "orgId": "77400",
+      "orgNameCn": "抚州分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361002赣东大道1250号"
+    },
+    {
+      "orgId": "77701",
+      "orgNameCn": "营业部",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361002赣东大道1250号"
+    },
+    {
+      "orgId": "77608",
+      "orgNameCn": "抚州瑶坪南路社区支行",
+      "businessSuperior": "77701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000361000361002瑶坪南路中段冷冻厂宿舍东侧南至北1-2号商铺"
+    },
+    {
+      "orgId": "77609",
+      "orgNameCn": "抚州文昌桥社区支行",
+      "businessSuperior": "77701",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000361000361002大公路60号"
+    },
+    {
+      "orgId": "77702",
+      "orgNameCn": "崇仁支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361024县府西路25号"
+    },
+    {
+      "orgId": "77703",
+      "orgNameCn": "临川支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361002上顿渡建设东路泽源华府一期"
+    },
+    {
+      "orgId": "77704",
+      "orgNameCn": "南丰支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361023南广路电力新村15-18号"
+    },
+    {
+      "orgId": "77705",
+      "orgNameCn": "金溪支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361027秀谷中大道（粮食局旁）"
+    },
+    {
+      "orgId": "77706",
+      "orgNameCn": "乐安支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361025乐安大道196号"
+    },
+    {
+      "orgId": "77707",
+      "orgNameCn": "东乡支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361029东乡县龙山北路景泰凤凰天街1栋1号"
+    },
+    {
+      "orgId": "77708",
+      "orgNameCn": "黎川支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361022黎川县京川大道151号"
+    },
+    {
+      "orgId": "77709",
+      "orgNameCn": "广昌支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361030广昌县建设东路（天河国际1-2栋）"
+    },
+    {
+      "orgId": "77710",
+      "orgNameCn": "南城支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361021登高路47号"
+    },
+    {
+      "orgId": "77711",
+      "orgNameCn": "宜黄支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361026宜黄大道南侧学府第一街2号楼"
+    },
+    {
+      "orgId": "77712",
+      "orgNameCn": "资溪支行",
+      "businessSuperior": "77400",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000361000361028建设路66号鹤城花园"
+    },
+    {
+      "orgId": "78300",
+      "orgNameCn": "南昌分行",
+      "businessSuperior": "08001",
+      "orgLevelId": "2",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360122红谷滩新区红谷中大道1398号"
+    },
+    {
+      "orgId": "78701",
+      "orgNameCn": "阳明支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360124东湖区阳明路183号"
+    },
+    {
+      "orgId": "78702",
+      "orgNameCn": "洪城支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360122青云谱区洪城路6号"
+    },
+    {
+      "orgId": "78618",
+      "orgNameCn": "江大南路小微支行",
+      "businessSuperior": "78702",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360100360111江大南路193号广电学校教学楼壹层6号轴-7号商铺"
+    },
+    {
+      "orgId": "78619",
+      "orgNameCn": "文教路社区支行",
+      "businessSuperior": "78702",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360100360102文教路128号恒立百年经典1号"
+    },
+    {
+      "orgId": "78703",
+      "orgNameCn": "南昌县支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360121莲塘镇向阳路601号"
+    },
+    {
+      "orgId": "78704",
+      "orgNameCn": "洪都大道支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360111洪都中大道183号"
+    },
+    {
+      "orgId": "78617",
+      "orgNameCn": "中山路社区支行",
+      "businessSuperior": "78704",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360100360102中山路281号"
+    },
+    {
+      "orgId": "78705",
+      "orgNameCn": "进贤县支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360124胜利中路81号"
+    },
+    {
+      "orgId": "78706",
+      "orgNameCn": "高新支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360124高新区火炬大街168号"
+    },
+    {
+      "orgId": "78707",
+      "orgNameCn": "营业部",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360122红谷滩新区红谷中大道1398号"
+    },
+    {
+      "orgId": "78708",
+      "orgNameCn": "新建支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360122长堎镇长麦路328号"
+    },
+    {
+      "orgId": "78709",
+      "orgNameCn": "青云支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360104井冈山大道424号"
+    },
+    {
+      "orgId": "78620",
+      "orgNameCn": "象南社区支行",
+      "businessSuperior": "78709",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360100360103象山南路1栋61号"
+    },
+    {
+      "orgId": "78710",
+      "orgNameCn": "安义县支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360123龙津镇东门中潦河上海湾商业广场A1区"
+    },
+    {
+      "orgId": "78711",
+      "orgNameCn": "八一支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360104null"
+    },
+    {
+      "orgId": "78712",
+      "orgNameCn": "北京东路支行",
+      "businessSuperior": "78300",
+      "orgLevelId": "3",
+      "orgTypeId":"3",
+      "address": "CHN360000360100360111尚东大道17、18号商住楼商铺101室"
+    },
+    {
+      "orgId": "78616",
+      "orgNameCn": "博览路社区支行",
+      "businessSuperior": "78712",
+      "orgLevelId": "4",
+      "orgTypeId":"1",
+      "address": "CHN360000360100360104博览路388号"
+    }
+  ]

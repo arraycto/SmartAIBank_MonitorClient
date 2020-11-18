@@ -1,0 +1,83 @@
+{
+    "busineAcceptList":{
+      "pushCount": "22",
+      "receiveCount":"20",
+      "recevieRate":"28",
+      "negativeCount":"128",
+      "negativeHandleCount":"38",
+      "negativeHandleRate":"58",
+      "authHandleCount": "22",
+      "queueHandleCount":"20",
+      "identifiedCount":"8",
+      "callHandleCount":"8",
+      "reserveHandleCount":"8"
+    },
+    "saleCustCount":{
+      "count": "22",
+      "avgValue":"20",
+      "branchAvg":"18",
+      "rate":"8",
+      "list":[
+        {"time":"一月","count":23,"avgValue":56,"branchAvg":44},
+        {"time":"二月","count":120,"avgValue":86,"branchAvg":55},
+        {"time":"三月","count":56,"avgValue":23,"branchAvg":33},
+        {"time":"四月","count":162,"avgValue":111,"branchAvg":102},
+        {"time":"五月","count":88,"avgValue":88,"branchAvg":25},
+        {"time":"六月","count":139,"avgValue":46,"branchAvg":34},
+        {"time":"七月","count":12,"avgValue":84,"branchAvg":23},
+        {"time":"八月","count":99,"avgValue":31,"branchAvg":45},
+        {"time":"九月","count":23,"avgValue":120,"branchAvg":66}
+    ]
+    },
+    "potentialCustRegister":{
+      "count": "22",
+      "avgValue":"20",
+      "branchAvg":"18",
+      "rate":"8",
+      "list":[
+        {"time":"一月","count":23,"avgValue":56,"branchAvg":44},
+        {"time":"二月","count":120,"avgValue":86,"branchAvg":55},
+        {"time":"三月","count":56,"avgValue":23,"branchAvg":33},
+        {"time":"四月","count":162,"avgValue":111,"branchAvg":102},
+        {"time":"五月","count":88,"avgValue":88,"branchAvg":25},
+        {"time":"六月","count":139,"avgValue":46,"branchAvg":34},
+        {"time":"七月","count":12,"avgValue":84,"branchAvg":23},
+        {"time":"八月","count":99,"avgValue":31,"branchAvg":45},
+        {"time":"九月","count":23,"avgValue":120,"branchAvg":66}
+    ]
+    },
+    "saleProductCount":{
+      "count": "22",
+      "avgValue":"20",
+      "branchAvg":"18",
+      "rate":"8",
+      "list":[
+        {"time":"一月","count":23,"avgValue":56,"branchAvg":44},
+        {"time":"二月","count":120,"avgValue":86,"branchAvg":55},
+        {"time":"三月","count":56,"avgValue":23,"branchAvg":33},
+        {"time":"四月","count":162,"avgValue":111,"branchAvg":102},
+        {"time":"五月","count":88,"avgValue":88,"branchAvg":25},
+        {"time":"六月","count":139,"avgValue":46,"branchAvg":34},
+        {"time":"七月","count":12,"avgValue":84,"branchAvg":23},
+        {"time":"八月","count":99,"avgValue":31,"branchAvg":45},
+        {"time":"九月","count":23,"avgValue":120,"branchAvg":66}
+    ]
+    },
+    "reserveBuyCust":{
+      "count": "22",
+      "avgValue":"20",
+      "branchAvg":"18",
+      "rate":"8",
+      "list":[
+        {"time":"一月","count":23,"avgValue":56,"branchAvg":44},
+        {"time":"二月","count":120,"avgValue":86,"branchAvg":55},
+        {"time":"三月","count":56,"avgValue":23,"branchAvg":33},
+        {"time":"四月","count":162,"avgValue":111,"branchAvg":102},
+        {"time":"五月","count":88,"avgValue":88,"branchAvg":25},
+        {"time":"六月","count":139,"avgValue":46,"branchAvg":34},
+        {"time":"七月","count":12,"avgValue":84,"branchAvg":23},
+        {"time":"八月","count":99,"avgValue":31,"branchAvg":45},
+        {"time":"九月","count":23,"avgValue":120,"branchAvg":66}
+    ]
+    }
+}

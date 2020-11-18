@@ -1,0 +1,21 @@
+{
+  "error_code":"000000", 
+  "error_msg":"查询成功",
+  "data":{
+    "custReceptionPartList":{
+      "PUSH_COUNT": "22",
+      "RECEIVE_COUNT":"20",
+      "RECEIVE_RATE":"28",
+      "NEGATIVE_COUNT":"128",
+      "NEGATIVE_HANDLE_COUNT":"38",
+      "NEGATIVE_HANDLE_RATE":"58"
+    },
+    "busiAcceptPartList":{
+      "AUTH_HANDLE_COUNT": "22",
+      "QUEUE_HANDLE_COUNT":"20",
+      "RECEIVE_COUNT":"8",
+      "CALL_HANDLE_COUNT":"8",
+      "RESERVE_HANDLE_COUNT":"8"
+    }
+  }
+}

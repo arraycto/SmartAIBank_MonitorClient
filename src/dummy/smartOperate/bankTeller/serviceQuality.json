@@ -1,0 +1,983 @@
+{
+    "userRankList": {
+        "totalAvg": "26",
+        "branchAvg": "15",
+        "rankList": [
+            {
+                "userId": "2156123",
+                "userName": "张丹丹",
+                "value": "6"
+            },
+            {
+                "userName": "李丽",
+                "userId": "2156123",
+                "value": "9"
+            },
+            {
+                "userName": "张梅",
+                "userId": "2156123",
+                "value": "12"
+            },
+            {
+                "userName": "王珊珊",
+                "userId": "2156123",
+                "value": "16"
+            },
+            {
+                "userName": "马丽",
+                "userId": "2156123",
+                "value": "20"
+            },
+            {
+                "userName": "张洁",
+                "userId": "2156123",
+                "value": "22"
+            },
+            {
+                "userName": "杜娟",
+                "userId": "2156123",
+                "value": "26"
+            },
+            {
+                "userName": "郑爽",
+                "userId": "2156123",
+                "value": "31"
+            },
+            {
+                "userName": "韩鹏",
+                "userId": "2156123",
+                "value": "35"
+            },
+            {
+                "userName": "李云飞",
+                "userId": "2156123",
+                "value": "39"
+            }
+        ]
+    },
+    "userDetailList": [
+        {
+            "name": "张丹丹",
+            "id": "106568",
+            "value": "12",
+            "rate": -0.9,
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "rankNo": "1",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120",
+                    "rate": -0.9
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87",
+                    "rate": 0
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83",
+                    "rate": 0
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100",
+                    "rate": 0
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102",
+                    "rate": 0
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83",
+                    "rate": 0.65
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99",
+                    "rate": 0
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89",
+                    "rate": 0.66
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80",
+                    "rate": 0.88
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88",
+                    "rate": 0
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65",
+                    "rate": 0.52
+                }
+            ]
+        },
+        {
+            "name": "李丽",
+            "id": "12561232",
+            "value": "12",
+            "rate": 0.9,
+            "rankNo": "2",
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120"
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87"
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100"
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102"
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99"
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89"
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80"
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88"
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65"
+                }
+            ]
+        },
+        {
+            "name": "张梅",
+            "id": "106568",
+            "value": "12",
+            "rankNo": "3",
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120"
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87"
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100"
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102"
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99"
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89"
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80"
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88"
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65"
+                }
+            ]
+        },
+        {
+            "name": "王珊珊",
+            "id": "106568",
+            "value": "12",
+            "rate": 0,
+            "rankNo": "4",
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120"
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87"
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100"
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102"
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99"
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89"
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80"
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88"
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65"
+                }
+            ]
+        },
+        {
+            "name": "马丽",
+            "id": "106568",
+            "value": "12",
+            "rate": 0,
+            "rankNo": "5",
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120"
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87"
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100"
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102"
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99"
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89"
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80"
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88"
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65"
+                }
+            ]
+        },
+        {
+            "name": "张洁",
+            "id": "106568",
+            "value": "12",
+            "rate": 0.25,
+            "rankNo": "6",
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120"
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87"
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100"
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102"
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99"
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89"
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80"
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88"
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65"
+                }
+            ]
+        },
+        {
+            "name": "杜娟",
+            "id": "106568",
+            "value": "12",
+            "rate": -0.36,
+            "rankNo": "7",
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120"
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87"
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100"
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102"
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99"
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89"
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80"
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88"
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65"
+                }
+            ]
+        },
+        {
+            "name": "郑爽",
+            "id": "106568",
+            "value": "12",
+            "rate": 5,
+            "rankNo": "8",
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120"
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87"
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100"
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102"
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99"
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89"
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80"
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88"
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65"
+                }
+            ]
+        },
+        {
+            "name": "韩鹏",
+            "id": "106568",
+            "value": "12",
+            "rate": 3,
+            "rankNo": "9",
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120"
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87"
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100"
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102"
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99"
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89"
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80"
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88"
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65"
+                }
+            ]
+        },
+        {
+            "name": "李云飞",
+            "id": "106568",
+            "value": "12",
+            "rate": 4,
+            "rankNo": "10",
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120"
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87"
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100"
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102"
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99"
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89"
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80"
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88"
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65"
+                }
+            ]
+        },
+        {
+            "name": "李云飞",
+            "id": "106568",
+            "value": "12",
+            "rate": 6,
+            "rankNo": "11",
+            "totalAvg": "15",
+            "branchAvg": "14",
+            "distributionList": [
+                {
+                    "time": "20191103",
+                    "value": "62",
+                    "totalAvg": "70",
+                    "branchAvg": "120"
+                },
+                {
+                    "time": "20191204",
+                    "value": "99",
+                    "totalAvg": "55",
+                    "branchAvg": "87"
+                },
+                {
+                    "time": "20190105",
+                    "value": "88",
+                    "totalAvg": "66",
+                    "branchAvg": "72"
+                },
+                {
+                    "time": "20190206",
+                    "value": "86",
+                    "totalAvg": "62",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190307",
+                    "value": "80",
+                    "totalAvg": "49",
+                    "branchAvg": "100"
+                },
+                {
+                    "time": "20190408",
+                    "value": "92",
+                    "totalAvg": "62",
+                    "branchAvg": "102"
+                },
+                {
+                    "time": "20190509",
+                    "value": "99",
+                    "totalAvg": "72",
+                    "branchAvg": "83"
+                },
+                {
+                    "time": "20190610",
+                    "value": "110",
+                    "totalAvg": "121",
+                    "branchAvg": "99"
+                },
+                {
+                    "time": "20190711",
+                    "value": "98",
+                    "totalAvg": "98",
+                    "branchAvg": "89"
+                },
+                {
+                    "time": "20190812",
+                    "value": "88",
+                    "totalAvg": "73",
+                    "branchAvg": "80"
+                },
+                {
+                    "time": "20190913",
+                    "value": "75",
+                    "totalAvg": "79",
+                    "branchAvg": "88"
+                },
+                {
+                    "time": "20191014",
+                    "value": "99",
+                    "totalAvg": "62",
+                    "branchAvg": "65"
+                }
+            ]
+        }
+    ]
+}

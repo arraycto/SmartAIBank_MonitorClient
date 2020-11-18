@@ -1,0 +1,66 @@
+{
+    "saleCustCount":{
+      "count": "22",
+      "avgValue":"20",
+      "rate":"8",
+      "rankList":[
+        { "branchNo": "1","branchName": "科技路支行", "value": 120, "rate":0.0531, "rankNo":1 },
+        { "branchNo": "2","branchName": "子午路支行", "value": 143, "rate":0.0531, "rankNo":2 },
+        { "branchNo": "3","branchName": "钟楼支行", "value": 165, "rate":0.0531, "rankNo":3 },
+        { "branchNo": "4","branchName": "凤城二路支行", "value": 186, "rate":0.0531, "rankNo":4 },
+        { "branchNo": "5","branchName": "凤城八路支行", "value": 199, "rate":0.0531, "rankNo":5 },
+        { "branchNo": "6","branchName": "小寨支行", "value": 210, "rate":0.0531, "rankNo":6 },
+        { "branchNo": "7","branchName": "动物园支行", "value": 250, "rate":0.0531, "rankNo":7 },
+        { "branchNo": "8","branchName": "二马路支行", "value": 268, "rate":0.0531, "rankNo":8 },
+        { "branchNo": "9","branchName": "大新街支行", "value": 288, "rate":0.0531, "rankNo":9 }
+      ]
+    },
+    "potentialCustRegister":{
+      "count": "22",
+      "avgValue":"20",
+      "rate":"8",
+      "rankList":[
+        { "branchNo": "1","branchName": "科技路支行", "value": 120, "rate":0.0531, "rankNo":1 },
+        { "branchNo": "2","branchName": "子午路支行", "value": 143, "rate":0.0531, "rankNo":2 },
+        { "branchNo": "3","branchName": "钟楼支行", "value": 165, "rate":0.0531, "rankNo":3 },
+        { "branchNo": "4","branchName": "凤城二路支行", "value": 186, "rate":0.0531, "rankNo":4 },
+        { "branchNo": "5","branchName": "凤城八路支行", "value": 199, "rate":0.0531, "rankNo":5 },
+        { "branchNo": "6","branchName": "小寨支行", "value": 210, "rate":0.0531, "rankNo":6 },
+        { "branchNo": "7","branchName": "动物园支行", "value": 250, "rate":0.0531, "rankNo":7 },
+        { "branchNo": "8","branchName": "二马路支行", "value": 268, "rate":0.0531, "rankNo":8 },
+        { "branchNo": "9","branchName": "大新街支行", "value": 288, "rate":0.0531, "rankNo":9 }
+      ]
+    },
+    "saleProductCount":{
+      "count": "22",
+      "avgValue":"20",
+      "rate":"8",
+      "rankList":[
+        { "branchNo": "1","branchName": "科技路支行", "value": 120, "rate":0.0531, "rankNo":1 },
+        { "branchNo": "2","branchName": "子午路支行", "value": 143, "rate":0.0531, "rankNo":2 },
+        { "branchNo": "3","branchName": "钟楼支行", "value": 165, "rate":0.0531, "rankNo":3 },
+        { "branchNo": "4","branchName": "凤城二路支行", "value": 186, "rate":0.0531, "rankNo":4 },
+        { "branchNo": "5","branchName": "凤城八路支行", "value": 199, "rate":0.0531, "rankNo":5 },
+        { "branchNo": "6","branchName": "小寨支行", "value": 210, "rate":0.0531, "rankNo":6 },
+        { "branchNo": "7","branchName": "动物园支行", "value": 250, "rate":0.0531, "rankNo":7 },
+        { "branchNo": "8","branchName": "二马路支行", "value": 268, "rate":0.0531, "rankNo":8 },
+        { "branchNo": "9","branchName": "大新街支行", "value": 288, "rate":0.0531, "rankNo":9 }
+      ]
+    },
+    "reserveBuyCust":{
+      "count": "22",
+      "avgValue":"20",
+      "rate":"8",
+      "rankList":[
+        { "branchNo": "1","branchName": "科技路支行", "value": 120, "rate":0.0531, "rankNo":1 },
+        { "branchNo": "2","branchName": "子午路支行", "value": 143, "rate":0.0531, "rankNo":2 },
+        { "branchNo": "3","branchName": "钟楼支行", "value": 165, "rate":0.0531, "rankNo":3 },
+        { "branchNo": "4","branchName": "凤城二路支行", "value": 186, "rate":0.0531, "rankNo":4 },
+        { "branchNo": "5","branchName": "凤城八路支行", "value": 199, "rate":0.0531, "rankNo":5 },
+        { "branchNo": "6","branchName": "小寨支行", "value": 210, "rate":0.0531, "rankNo":6 },
+        { "branchNo": "7","branchName": "动物园支行", "value": 250, "rate":0.0531, "rankNo":7 },
+        { "branchNo": "8","branchName": "二马路支行", "value": 268, "rate":0.0531, "rankNo":8 },
+        { "branchNo": "9","branchName": "大新街支行", "value": 288, "rate":0.0531, "rankNo":9 }
+      ]
+    }
+}

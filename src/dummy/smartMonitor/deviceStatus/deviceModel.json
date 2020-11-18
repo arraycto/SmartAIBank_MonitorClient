@@ -1,0 +1,18 @@
+{
+  "list":[{
+    "deviceModelId":"0001",
+    "deviceModelName":"现金模块"
+  },
+  {
+    "deviceModelId":"0002",
+    "deviceModelName":"取款模块"
+  },
+  {
+    "deviceModelId":"0003",
+    "deviceModelName":"打印模块"
+  },
+  {
+    "deviceModelId":"0004",
+    "deviceModelName":"显示模块"
+  }]
+}

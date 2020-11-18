@@ -1,0 +1,67 @@
+{
+  "avgWaitTime": "15000",
+  "rate": "8",
+  "avgValue": "10000",
+  "top5": [{
+      "branchNo": "1",
+      "branchName": "科技路支行(雁塔分行)",
+      "value": "110500",
+      "rate": "8"
+    },
+    {
+      "branchNo": "2", 
+      "branchName": "子午路支行（雁塔分行）",
+      "value": "999999",
+      "rate": "-8"
+    },
+    {
+      "branchNo": "3",
+      "branchName": "小寨支行（雁塔分行）",
+      "value": "10200",
+      "rate": "8"
+    },
+    {
+      "branchNo": "4",
+      "branchName": "凤城八路支行（未央区分行）",
+      "value": "9500",
+      "rate": "8"
+    },
+    {
+      "branchNo": "5",
+      "branchName": "科技路支行",
+      "value": "9300",
+      "rate": "4"
+    }
+  ],
+  "bottom5": [{
+    "branchNo": "1",
+    "branchName": "科技路支行(雁塔分行)",
+    "value": "10500",
+    "rate": "8"
+  },
+  {
+    "branchNo": "2",
+    "branchName": "子午路支行（雁塔分行）",
+    "value": "10380",
+    "rate": "-8"
+  },
+  {
+    "branchNo": "3",
+    "branchName": "小寨支行（雁塔分行）",
+    "value": "10200",
+    "rate": "8"
+  },
+  {
+    "branchNo": "4",
+    "branchName": "凤城八路支行（未央区分行）",
+    "value": "9500",
+    "rate": "8"
+  },
+  {
+    "branchNo": "5",
+    "branchName": "科技路支行",
+    "value": "9300",
+    "rate": "4"
+  }
+]
+}

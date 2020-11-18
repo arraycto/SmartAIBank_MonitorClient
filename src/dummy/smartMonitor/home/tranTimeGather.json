@@ -1,0 +1,46 @@
+[
+  {
+    "startTime": "01:00",
+    "transCount": "10"
+  },
+  {
+    "startTime": "02:00",
+    "transCount": "20"
+  },
+  {
+    "startTime": "03:00",
+    "transCount": "100"
+  },
+  {
+    "startTime": "04:00",
+    "transCount": "44"
+  },
+  {
+    "startTime": "05:00",
+    "transCount": "77"
+  },
+  {
+    "startTime": "06:00",
+    "transCount": "0"
+  },
+  {
+    "startTime": "07:00",
+    "transCount": "0"
+  },
+  {
+    "startTime": "08:00",
+    "transCount": "0"
+  },
+  {
+    "startTime": "09:00",
+    "transCount": "0"
+  },
+  {
+    "startTime": "10:00",
+    "transCount": "0"
+  },
+  {
+    "startTime": "11:00",
+    "transCount": "0"
+  }
+]

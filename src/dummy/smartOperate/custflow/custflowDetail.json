@@ -1,0 +1,149 @@
+{
+    "error_code":"000000",
+    "error_msg":"查询成功",
+    "custFlowInfo":{
+        "receiveCount":200,
+        "rate":0.9123,
+        "totalAvg":122,
+        "timeGroupCustFlowList":[
+            {"time":"20190602","value":120,"totalAvg":330},
+            {"time":"20180703","value":350,"totalAvg":256},
+            {"time":"20170804","value":101,"totalAvg":150},
+            {"time":"20160904","value":290,"totalAvg":199},
+            {"time":"20151005","value":90,"totalAvg":123},
+            {"time":"20141106","value":230,"totalAvg":160},
+            {"time":"20131207","value":210,"totalAvg":400},
+            {"time":"20120108","value":220,"totalAvg":230},
+            {"time":"20110209","value":160,"totalAvg":180}
+        ]
+    },
+    "timePartCustFlow":{
+        "publicRate":38,
+        "privateRate":62,
+        "timePartCustFlowForPublicList": [
+            {
+                "timeStep":"9:00~10:00",
+                "receivePrivateCount":666,
+                "receivePublicCount":801
+            },
+            {
+                "timeStep":"10:00~11:00",
+                "receivePrivateCount":655,
+                "receivePublicCount":837
+            },
+            {
+                "timeStep":"11:00~12:00",
+                "receivePrivateCount":902,
+                "receivePublicCount":451
+            },
+            {
+                "timeStep":"12:00~13:00",
+                "receivePrivateCount":465,
+                "receivePublicCount":403
+            },
+            {
+                "timeStep":"13:00~14:00",
+                "receivePrivateCount":776,
+                "receivePublicCount":901
+            },
+            {
+                "timeStep":"14:00~15:00",
+                "receivePrivateCount":1209,
+                "receivePublicCount":732
+            },
+            {
+                "timeStep":"15:00~16:00",
+                "receivePrivateCount":1101,
+                "receivePublicCount":620
+            },
+            {
+                "timeStep":"16:00~17:00",
+                "receivePrivateCount":444,
+                "receivePublicCount":600
+            },
+            {
+                "timeStep":"17:00~18:00",
+                "receivePrivateCount":344,
+                "receivePublicCount":221
+            }
+        ]
+    },
+    "custFlowPartBySexList":[
+        {
+            "value": 18,
+            "desc": "女性"
+        },
+        {
+            "value": 12,
+            "desc": "男性"
+        },
+        {
+            "value": 9,
+            "desc": "未识别"
+        }
+    ],
+    "custFlowPartByAgeList":[
+        {
+            "value": 8,
+            "desc": "18岁以下 "
+        },
+        {
+            "value": 7,
+            "desc": "19-22岁"
+        },
+        {
+            "value": 6,
+            "desc": "23-30岁"
+        },
+        {
+            "value": 5,
+            "desc": "31-45岁"
+        },
+        {
+            "value": 4,
+            "desc": "46-60岁"
+        },
+        {
+            "value": 4,
+            "desc": "61岁以上"
+        },
+        {
+            "value": 2,
+            "desc": "未识别"
+        }
+    ],
+    "custFlowPartByAssetsList":[
+        {
+            "value": 18,
+            "desc": "5万以下"
+        },
+        {
+            "value": 15,
+            "desc": "5-10万"
+        },
+        {
+            "value": 12,
+            "desc": "10-30万"
+        },
+        {
+            "value": 8,
+            "desc": "30-100万"
+        },
+        {
+            "value": 7,
+            "desc": "100-300万"
+        },
+        {
+            "value": 6,
+            "desc": "300-1000万"
+        },
+        {
+            "value": 6,
+            "desc": "1000万以上"
+        },
+        {
+            "value": 4,
+            "desc": "未识别"
+        }
+    ]
+}

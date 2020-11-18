@@ -1,0 +1,14 @@
+{
+    "routeList": [
+      { "custRoutes": "CBDE", "routesCount": 96},
+      { "custRoutes": "BDE", "routesCount": 84},
+      { "custRoutes": "A", "routesCount": 72},
+      { "custRoutes": "BE", "routesCount": 60},
+      { "custRoutes": "BEC", "routesCount": 50},
+      { "custRoutes": "CAF", "routesCount": 30},
+      { "custRoutes": "BDEC", "routesCount": 25},
+      { "custRoutes": "AC", "routesCount": 18},
+      { "custRoutes": "CA", "routesCount": 12},
+      { "custRoutes": "B", "routesCount": 8}
+    ]
+}

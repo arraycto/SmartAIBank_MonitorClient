@@ -1,0 +1,27 @@
+{
+    "customer": {
+      "recieveCount": "15000",
+      "avgValue": "10000",
+      "rate": "8"
+    },
+    "reserve": {
+      "reserveCount": "300",
+      "avgValue": "200",
+      "rate": "8"
+    },
+    "praise": {
+      "praiseRate": "92",
+      "avgValue": "88",
+      "rate": "8"
+    },
+    "avgDealTime": {
+      "avgDealTime": "10",
+      "avgValue": "12",
+      "rate": "8"
+    },
+    "avgWaitTime": {
+      "avgWaitTime": "15",
+      "avgValue": "18",
+      "rate": "8"
+    }
+}

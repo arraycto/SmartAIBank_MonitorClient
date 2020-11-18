@@ -1,0 +1,227 @@
+{
+	"bottomList": [
+		{
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":124
+    },
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":24
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":23
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":22
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":21
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":20
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":19
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":18
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":17
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":16
+		}
+    
+	],
+	"topList": [
+		{
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":1
+    },
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":2
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":3
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":4
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":5
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":6
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":7
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":8
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":9
+		},
+    {
+			"avgWaitingTime": 20,
+			"avgWindowWaitingCustomers": 0,
+			"branchId": "08001",
+			"branchName": "陕西西安的某个银行",
+			"maxWaitingTime": 0,
+			"status": {},
+			"statusDesc": "",
+			"waitingCustomers": 11,
+			"id":10
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+    "saleCustCount":{
+      "count": "22",
+      "avgValue":"20",
+      "rate":"8",
+      "timeGroupList":[
+          {"time":"一月","value":23,"totalAvg":56},
+          {"time":"二月","value":120,"totalAvg":86},
+          {"time":"三月","value":56,"totalAvg":23},
+          {"time":"四月","value":162,"totalAvg":111},
+          {"time":"五月","value":88,"totalAvg":88},
+          {"time":"六月","value":139,"totalAvg":46},
+          {"time":"七月","value":12,"totalAvg":84},
+          {"time":"八月","value":99,"totalAvg":31},
+          {"time":"九月","value":23,"totalAvg":120}
+      ]
+    },
+    "potentialCustRegister":{
+      "count": "22",
+      "avgValue":"20",
+      "rate":"8",
+      "timeGroupList":[
+          {"time":"一月","value":23,"totalAvg":56},
+          {"time":"二月","value":120,"totalAvg":86},
+          {"time":"三月","value":56,"totalAvg":23},
+          {"time":"四月","value":162,"totalAvg":111},
+          {"time":"五月","value":88,"totalAvg":88},
+          {"time":"六月","value":139,"totalAvg":46},
+          {"time":"七月","value":12,"totalAvg":84},
+          {"time":"八月","value":99,"totalAvg":31},
+          {"time":"九月","value":23,"totalAvg":120}
+      ]
+    },
+    "saleProductCount":{
+      "count": "22",
+      "avgValue":"20",
+      "rate":"8",
+      "timeGroupList":[
+          {"time":"一月","value":23,"totalAvg":56},
+          {"time":"二月","value":120,"totalAvg":86},
+          {"time":"三月","value":56,"totalAvg":23},
+          {"time":"四月","value":162,"totalAvg":111},
+          {"time":"五月","value":88,"totalAvg":88},
+          {"time":"六月","value":139,"totalAvg":46},
+          {"time":"七月","value":12,"totalAvg":84},
+          {"time":"八月","value":99,"totalAvg":31},
+          {"time":"九月","value":23,"totalAvg":120}
+      ]
+    },
+    "reserveBuyCust":{
+      "count": "22",
+      "avgValue":"20",
+      "rate":"8",
+      "timeGroupList":[
+          {"time":"一月","value":23,"totalAvg":56},
+          {"time":"二月","value":120,"totalAvg":86},
+          {"time":"三月","value":56,"totalAvg":23},
+          {"time":"四月","value":162,"totalAvg":111},
+          {"time":"五月","value":88,"totalAvg":88},
+          {"time":"六月","value":139,"totalAvg":46},
+          {"time":"七月","value":12,"totalAvg":84},
+          {"time":"八月","value":99,"totalAvg":31},
+          {"time":"九月","value":23,"totalAvg":120}
+      ]
+    }
+}

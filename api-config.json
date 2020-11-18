@@ -1,0 +1,16 @@
+{
+  "type":"SwaggerV2",
+  "origins":[{
+    "name":"base",
+    "url": "http://127.0.0.1:8080/v2/api-docs?group=base"
+  },
+  {
+    "name":"operations",
+    "url": "http://127.0.0.1:8080/v2/api-docs?group=operations"
+  },
+  {
+    "name":"monitor",
+    "url": "http://10.97.12.152:8085/v2/api-docs?group=monitor"
+  }],
+  "outDir": "./src/services"
+}

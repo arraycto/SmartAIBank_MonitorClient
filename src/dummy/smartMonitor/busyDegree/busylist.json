@@ -1,0 +1,49 @@
+{
+	"endRow": 0,
+	"hasNextPage": true,
+	"hasPreviousPage": true,
+	"isFirstPage": true,
+	"isLastPage": true,
+	"list": [
+    {
+			"avgWaitingTime": 12,
+			"avgWindowWaitingCustomers": 13,
+			"branchId": "08001",
+			"branchName": "锦业路支行",
+			"maxWaitingTime": 15,
+			"status": {},
+			"statusDesc": "饱和",
+			"waitingCustomers": 12
+		},{
+			"avgWaitingTime": 12,
+			"avgWindowWaitingCustomers": 13,
+			"branchId": "08011",
+			"branchName": "锦业路一支行",
+			"maxWaitingTime": 15,
+			"status": {},
+			"statusDesc": "饱和",
+			"waitingCustomers": 12
+		},{
+			"avgWaitingTime": 12,
+			"avgWindowWaitingCustomers": 13,
+			"branchId": "08011",
+			"branchName": "锦业路二支行",
+			"maxWaitingTime": 15,
+			"status": {},
+			"statusDesc": "饱和",
+			"waitingCustomers": 12
+		}
+	],
+	"navigateFirstPage": 0,
+	"navigateLastPage": 0,
+	"navigatePages": 0,
+	"navigatepageNums": [],
+	"nextPage": 0,
+	"pageNum": 0,
+	"pageSize": 0,
+	"pages": 0,
+	"prePage": 0,
+	"size": 0,
+	"startRow": 0,
+	"total": 0
+}

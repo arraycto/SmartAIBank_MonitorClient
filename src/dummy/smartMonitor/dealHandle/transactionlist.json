@@ -1,0 +1,58 @@
+{
+	"list": [
+		{
+			"branchId": "08001",
+			"branchName": "机构机构",
+			"deviceClassKey": "1222",
+			"deviceClassName": "ssssstm",
+			"deviceId": "000001",
+			"fieldName": "大厅",
+			"fieldNo": "11111",
+			"tranCode": "10086",
+			"tranData": "2019-07-18 19:32:35",
+			"tranReturnCode": "000000",
+			"tranReturnMsg": "异常",
+			"tranSequence": "12312312312312",
+			"tranStatus": "001",
+			"tranStatusDesc": "失败",
+			"tranType": "stm",
+			"tranTypeDesc": "121212"
+		},
+		{
+			"branchId": "08001",
+			"branchName": "机构机构",
+			"deviceClassKey": "1222",
+			"deviceClassName": "ssssstm",
+			"deviceId": "000001",
+			"fieldName": "大厅",
+			"fieldNo": "11111",
+			"tranCode": "10086",
+			"tranData": "2019-7-8 19:32:35",
+			"tranReturnCode": "000000",
+			"tranReturnMsg": "异常",
+			"tranSequence": "12312312312312",
+			"tranStatus": "001",
+			"tranStatusDesc": "异常",
+			"tranType": "stm",
+			"tranTypeDesc": "121212"
+		},
+		{
+			"branchId": "08001",
+			"branchName": "机构机构",
+			"deviceClassKey": "1222",
+			"deviceClassName": "ssssstm",
+			"deviceId": "000001",
+			"fieldName": "大厅",
+			"fieldNo": "11111",
+			"tranCode": "10086",
+			"tranData": "2019-7-8 19:32:35",
+			"tranReturnCode": "000000",
+			"tranReturnMsg": "异常",
+			"tranSequence": "12312312312312",
+			"tranStatus": "001",
+			"tranStatusDesc": "成功",
+			"tranType": "stm",
+			"tranTypeDesc": "121212"
+		}
+	]
+}

@@ -1,0 +1,104 @@
+[
+  {
+  "devClassKey": "",
+  "devClassName": "填单机",
+  "manufFaultInfo": [
+    {
+      "devFaultRate": 10,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "日立",
+      "normalTime": 0
+    },
+    {
+      "devFaultRate": 65,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "国光",
+      "normalTime": 0
+    },
+    {
+      "devFaultRate": 40,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "南天",
+      "normalTime": 0
+    },
+    {
+      "devFaultRate":50,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "不知道",
+      "normalTime": 0
+    }
+  ]
+},
+{
+  "devClassKey": "",
+  "devClassName": "STM",
+  "manufFaultInfo": [
+    {
+      "devFaultRate": 20,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "日立",
+      "normalTime": 0
+    },
+    {
+      "devFaultRate": 30,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "国光",
+      "normalTime": 0
+    },
+    {
+      "devFaultRate": 60,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "南天",
+      "normalTime": 0
+    },
+    {
+      "devFaultRate": 50,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "不知道",
+      "normalTime": 0
+    }
+  ]
+},
+{
+  "devClassKey": "",
+  "devClassName": "回单机",
+  "manufFaultInfo": [
+    {
+      "devFaultRate": 10,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "日立",
+      "normalTime": 0
+    },
+    {
+      "devFaultRate": 34,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "国光",
+      "normalTime": 0
+    },
+    {
+      "devFaultRate": 11,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "南天",
+      "normalTime": 0
+    },
+    {
+      "devFaultRate": 56,
+      "faultTime": 0,
+      "manufId": "",
+      "manufName": "不知道",
+      "normalTime": 0
+    }
+  ]
+}
+]

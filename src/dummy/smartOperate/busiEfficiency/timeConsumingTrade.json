@@ -1,0 +1,124 @@
+{
+    "TRAN_CODE": "21562",
+    "tendList": [
+        {
+            "time": "20190320",
+            "trandCount": "260",
+            "tranCountRing":0.0221,
+            "tranCountTotalAvg": "250",
+            "handleTimeAvg": "230",
+            "handleTimeRing":0.0192,
+            "handleTimeTotalAvg": "200",
+            "mostQuickTime":"8"
+        },
+        {
+            "time": "20191221",
+            "trandCount": "280",
+            "tranCountRing":0.032,
+            "tranCountTotalAvg": "270",
+            "handleTimeAvg": "250",
+            "handleTimeRing":0.0625,
+            "handleTimeTotalAvg": "220",
+            "mostQuickTime":"9"
+        },
+        {
+            "time": "20190122",
+            "trandCount": "310",
+            "tranCountRing":-0.0613,
+            "tranCountTotalAvg": "300",
+            "handleTimeAvg": "270",
+            "handleTimeRing":0.071,
+            "handleTimeTotalAvg": "250",
+            "mostQuickTime":"11"
+        },
+        {
+            "time": "20190223",
+            "trandCount": "300",
+            "tranCountRing":-0.0812,
+            "tranCountTotalAvg": "290",
+            "handleTimeAvg": "250",
+            "handleTimeRing":-0.0831,
+            "handleTimeTotalAvg": "220",
+            "mostQuickTime":"13"
+        },
+        {
+            "time": "20191124",
+            "trandCount": "280",
+            "tranCountRing":0.0990,
+            "tranCountTotalAvg": "270",
+            "handleTimeAvg": "210",
+            "handleTimeRing":-0.0312,
+            "handleTimeTotalAvg": "188",
+            "mostQuickTime":"12"
+        },
+        {
+            "time": "20190425",
+            "trandCount": "311",
+            "tranCountRing":0.0114,
+            "tranCountTotalAvg": "300",
+            "handleTimeAvg": "250",
+            "handleTimeRing":0.0256,
+            "handleTimeTotalAvg": "220",
+            "mostQuickTime":"11"
+        },
+        {
+            "time": "20190526",
+            "trandCount": "340",
+            "tranCountRing":-0.0213,
+            "tranCountTotalAvg": "330",
+            "handleTimeAvg": "260",
+            "handleTimeRing":0.0538,
+            "handleTimeTotalAvg": "230",
+            "mostQuickTime":"9"
+        },
+        {
+            "time": "20190627",
+            "trandCount": "380",
+            "tranCountRing":0.0309,
+            "tranCountTotalAvg": "350",
+            "handleTimeAvg": "300",
+            "handleTimeRing":0.0411,
+            "handleTimeTotalAvg": "266",
+            "mostQuickTime":"8"
+        },
+        {
+            "time": "20190728",
+            "trandCount": "350",
+            "tranCountRing":0.0715,
+            "tranCountTotalAvg": "310",
+            "handleTimeAvg": "270",
+            "handleTimeRing":-0.0604,
+            "handleTimeTotalAvg": "241",
+            "mostQuickTime":"7"
+        },
+        {
+            "time": "20190829",
+            "trandCount": "300",
+            "tranCountRing":0.0419,
+            "tranCountTotalAvg": "290",
+            "handleTimeAvg": "250",
+            "handleTimeRing":0.01,
+            "handleTimeTotalAvg": "220",
+            "mostQuickTime":"11"
+        },
+        {
+            "time": "20190930",
+            "trandCount": "280",
+            "tranCountRing":0.0138,
+            "tranCountTotalAvg": "260",
+            "handleTimeAvg": "210",
+            "handleTimeTotalAvg": "200",
+            "mostQuickTime":"10"
+        },
+        {
+            "time": "20191031",
+            "trandCount": "320",
+            "tranCountRing":-0.0216,
+            "tranCountTotalAvg": "300",
+            "handleTimeAvg": "250",
+            "handleTimeRing":0,
+            "handleTimeTotalAvg": "220",
+            "mostQuickTime":"12"
+        }
+    ]
+}

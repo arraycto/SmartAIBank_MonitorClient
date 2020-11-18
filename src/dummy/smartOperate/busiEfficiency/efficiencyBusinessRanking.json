@@ -1,0 +1,136 @@
+{
+    "businessSum": {
+        "value": "1532",
+        "TRAN_COUNT_RING": "-12",
+        "HANDLE_TIME_AVG": "15",
+        "HANDLE_TIME_RING": "+15",
+        "busiSumRankTop10List": [
+            {
+                "branchName": "科技路支行",
+                "value": 1500,
+                "branchNo": "000",
+                "rate":0.0531,
+                "rankNo":1
+            },
+            {
+                "branchName": "子午路支行",
+                "value": 1200,
+                "branchNo": "000",
+                "rate":0.10,
+                "rankNo":2
+            },
+            {
+                "branchName": "钟楼支行",
+                "value": 1000,
+                "branchNo": "000",
+                "rankNo":4
+            },
+            {
+                "branchName": "凤城二路支行",
+                "value": 866,
+                "branchNo": "000",
+                "rate":0,
+                "rankNo":3
+            },
+            {
+                "branchName": "凤城八路支行",
+                "value": 962,
+                "branchNo": "000",
+                "rate":0.092,
+                "rankNo":5
+            },
+            {
+                "branchName": "小寨支行",
+                "value": 780,
+                "branchNo": "000",
+                "rate":-0.035,
+                "rankNo":6
+            },
+            {
+                "branchName": "动物园支行",
+                "value": 700,
+                "branchNo": "000",
+                "rate":-0.01,
+                "rankNo":8
+            },
+            {
+                "branchName": "二马路支行",
+                "value": 625,
+                "branchNo": "000",
+                "rate":0.029,
+                "rankNo":7
+            },
+            {
+                "branchName": "大新街支行",
+                "value": 666,
+                "branchNo": "000",
+                "rate":0.042,
+                "rankNo":9
+            }
+        ],
+        "dealTimeRankTop10List": [
+            {
+                "branchName": "科技路支行",
+                "value": 6,
+                "branchNo": "000",
+                "rate":0.042,
+                "rankNo":9
+            },
+            {
+                "branchName": "子午路支行",
+                "value": 10,
+                "branchNo": "000",
+                "rate":0.029,
+                "rankNo":7
+            },
+            {
+                "branchName": "钟楼支行",
+                "value": 12,
+                "branchNo": "000",
+                "rankNo":8
+            },
+            {
+                "branchName": "凤城二路支行",
+                "value": 16,
+                "branchNo": "000",
+                "rate":0,
+                "rankNo":6
+            },
+            {
+                "branchName": "凤城八路支行",
+                "value": 19,
+                "branchNo": "000",
+                "rate":0.092,
+                "rankNo":5
+            },
+            {
+                "branchName": "小寨支行",
+                "value": 21,
+                "branchNo": "000",
+                "rate":-0.028,
+                "rankNo":3
+            },
+            {
+                "branchName": "动物园支行",
+                "value": 26,
+                "branchNo": "000",
+                "rate":-0.03,
+                "rankNo":4
+            },
+            {
+                "branchName": "二马路支行",
+                "value": 31,
+                "branchNo": "000",
+                "rate":0.10,
+                "rankNo":2
+            },
+            {
+                "branchName": "大新街支行",
+                "value": 44,
+                "branchNo": "000",
+                "rate":0.0531,
+                "rankNo":1
+            }
+        ]
+    }
+}

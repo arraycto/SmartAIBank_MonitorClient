@@ -1,0 +1,38 @@
+{
+  "list":[{
+    "peripheralName": "二代证阅读器",
+    "peripheralStatus": "正常",
+    "peripheralStatusDetail": "运行正常"
+  }, {
+    "peripheralName": "指纹仪",
+    "peripheralStatus": "异常",
+    "peripheralStatusDetail": "这个外设出现了很大的问题，指纹仪坏了，这个外设出现了很大的问题，指纹仪坏了"
+  }, {
+    "peripheralName": "钞箱",
+    "peripheralStatus": "正常",
+    "peripheralStatusDetail": "运行正常",
+    "banknoteBoxData":[
+      {
+      "banknoteBox":"一百元面额钞箱",
+      "banknoteBoxStatus":"正常"
+    },{
+      "banknoteBox":"50面额钞箱",
+      "banknoteBoxStatus":"低"
+    },{
+      "banknoteBox":"20面额钞箱",
+      "banknoteBoxStatus":"满"
+    },{
+      "banknoteBox":"10面额钞箱",
+      "banknoteBoxStatus":"低"
+    },{
+      "banknoteBox":"回收箱",
+      "banknoteBoxStatus":"正常"
+    }]
+  }, {
+    "peripheralName": "指纹仪",
+    "peripheralStatus": "正常",
+    "peripheralStatusDetail": "运行正常"
+  }
+  ]
+  
+}

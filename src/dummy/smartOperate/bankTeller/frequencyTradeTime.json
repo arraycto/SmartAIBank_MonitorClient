@@ -1,0 +1,642 @@
+{
+    "tranTop20List": [
+        {
+            "tranCode": "21561321",
+            "tranName": "个人开户",
+            "totalAvg": "18",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        },
+        {
+            "tranCode": "21561321",
+            "tranName": "电子银行签约",
+            "totalAvg": "29",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        },
+        {
+            "tranCode": "21561321",
+            "tranName": "转账业务",
+            "totalAvg": "29",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        },
+        {
+            "tranCode": "21561321",
+            "tranName": "个人开户",
+            "totalAvg": "29",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        },
+        {
+            "tranCode": "21561321",
+            "tranName": "电子银行签约",
+            "totalAvg": "29",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        },
+        {
+            "tranCode": "21561321",
+            "tranName": "转账业务",
+            "totalAvg": "29",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        },
+        {
+            "tranCode": "21561321",
+            "tranName": "个人开户",
+            "totalAvg": "29",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        },
+        {
+            "tranCode": "21561321",
+            "tranName": "电子银行签约",
+            "totalAvg": "29",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        },
+        {
+            "tranCode": "21561321",
+            "tranName": "个人开户",
+            "totalAvg": "29",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        },
+        {
+            "tranCode": "21561321",
+            "tranName": "转账业务",
+            "totalAvg": "29",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        },
+        {
+            "tranCode": "21561321",
+            "tranName": "电子银行签约",
+            "totalAvg": "29",
+            "branchAvg": "26",
+            "rankList": [
+                {
+                    "userId": "12532",
+                    "userName": "彭于晏",
+                    "value": "10"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张丹丹",
+                    "value": "13"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李荣浩",
+                    "value": "18"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "田甜",
+                    "value": "21"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李丽",
+                    "value": "26"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "王悠悠",
+                    "value": "31"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "张珊",
+                    "value": "33"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "郑源",
+                    "value": "36"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "李师师",
+                    "value": "38"
+                },
+                {
+                    "userId": "12532",
+                    "userName": "汪明荃",
+                    "value": "41"
+                }
+            ]
+        }
+    ]
+}

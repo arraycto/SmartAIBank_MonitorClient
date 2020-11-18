@@ -1,0 +1,15 @@
+{
+	"alarmCount": 0,
+	"alarmRate": 0,
+	"appNotStartedCount": 0,
+	"appNotStartedRate": 0,
+	"commFailureCount": 0,
+	"commFailureRate": 0,
+	"normalCount": 0,
+	"normalRate": 0,
+	"peripheralFailureCount": 0,
+	"peripheralFailureRate": 0,
+	"totalCount": 0,
+	"unmonitoredCount": 0,
+	"unmonitoredRate": 0
+}

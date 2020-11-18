@@ -1,0 +1,89 @@
+{
+    "error_code":"000000",
+    "error_msg":"查询成功",
+    "AVGCUSTFLOW": "1287",
+    "list": [
+        {
+            "branchNo": "1001",
+            "branchName": "科技路支行",
+            "value": 1768,
+            "branchAvg": 1,
+            "totalVag": 1,
+            "rate":0.0531,
+            "rankNo":1
+        },
+        {
+            "branchNo": "1002",
+            "branchName": "子午路支行",
+            "value": 1653,
+            "branchAvg": 2,
+            "totalVag": 1,
+            "rate":0.10,
+            "rankNo":2
+        },
+        {
+            "branchNo": "1003",
+            "branchName": "钟楼支行",
+            "value": 1509,
+            "branchAvg": 3,
+            "totalVag": 1,
+            "rate":-0.03,
+            "rankNo":4
+        },
+        {
+            "branchNo": "1004",
+            "branchName": "凤城二路支行",
+            "value": 1601,
+            "branchAvg": 4,
+            "totalVag": 1,
+            "rate":-0.028,
+            "rankNo":3
+        },
+        {
+            "branchNo": "1005",
+            "branchName": "凤城八路支行",
+            "value": 1311,
+            "branchAvg": 5,
+            "totalVag": 1,
+            "rate":0.092,
+            "rankNo":5
+        },
+        {
+            "branchNo": "1007",
+            "branchName": "小寨支行",
+            "value": 1087,
+            "branchAvg": 7,
+            "totalVag": 1,
+            "rate":-0.035,
+            "rankNo":6
+        },
+        {
+            "branchNo": "1008",
+            "branchName": "动物园支行",
+            "value": 890,
+            "branchAvg": 8,
+            "totalVag": 1,
+            "rate":-0.01,
+            "rankNo":8
+        },
+        {
+            "branchNo": "1009",
+            "branchName": "二马路支行",
+            "value": 963,
+            "branchAvg": 9,
+            "totalVag": 1,
+            "rate":0.029,
+            "rankNo":7
+        },
+        {
+            "branchNo": "1010",
+            "branchName": "大新街支行",
+            "value": 534,
+            "branchAvg": 10,
+            "totalVag": 1,
+            "rate":0.042,
+            "rankNo":9
+        }
+    ]
+
+}

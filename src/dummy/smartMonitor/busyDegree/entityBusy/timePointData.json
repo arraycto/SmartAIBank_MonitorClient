@@ -1,0 +1,37 @@
+[
+  {
+    "endTime": "09:30",
+    "waitingCustomers": "1",
+    "avgWaitingTime": "12.22"
+  },
+  {
+    "endTime": "10:30",
+    "waitingCustomers": "2",
+    "avgWaitingTime": "2"
+  },
+  {
+    "endTime": "11:30",
+    "waitingCustomers": "3",
+    "avgWaitingTime": "0"
+  },
+  {
+    "endTime": "12:30",
+    "waitingCustomers": "5",
+    "avgWaitingTime": "0"
+  },
+  {
+    "endTime": "13:30",
+    "waitingCustomers": "4",
+    "avgWaitingTime": "0"
+  },
+  {
+    "endTime": "14:30",
+    "waitingCustomers": "6",
+    "avgWaitingTime": "0"
+  },
+  {
+    "endTime": "15:30",
+    "waitingCustomers": "12",
+    "avgWaitingTime": "240637"
+  }
+]

@@ -1,0 +1,30 @@
+{
+    "qualityType": "any",
+    "avgRateSum":{
+      "value": "22",
+      "totalAvg":"20",
+      "rate":"8",
+      "distributionList":[
+          {"time":"一月","value":23,"totalAvg":56},
+          {"time":"二月","value":120,"totalAvg":86},
+          {"time":"三月","value":56,"totalAvg":23},
+          {"time":"四月","value":162,"totalAvg":111},
+          {"time":"五月","value":88,"totalAvg":88},
+          {"time":"六月","value":139,"totalAvg":46},
+          {"time":"七月","value":12,"totalAvg":84},
+          {"time":"八月","value":99,"totalAvg":31},
+          {"time":"九月","value":23,"totalAvg":120}
+      ]
+    },
+    "subBranchRankTop10List":[
+        { "branchNo": "61601","branchName": "合肥西园新村社区支行", "value": 120, "totalVag": 130, "rate":0.0531, "rankNo":1 },
+        { "branchNo": "61602","branchName": "世纪家园社区支行", "value": 143, "totalVag": 130, "rate":0.0531, "rankNo":2  },
+        { "branchNo": "61603","branchName": "碧湖花园社区支行", "value": 165, "totalVag": 130, "rate":0.0531, "rankNo":3  },
+        { "branchNo": "61604","branchName": "庐江学苑小区社区支行", "value": 186, "totalVag": 130, "rate":0.0531, "rankNo":4  },
+        { "branchNo": "61605","branchName": "合肥万绿园社区支行", "value": 199, "totalVag": 130, "rate":0.0531, "rankNo":5  },
+        { "branchNo": "61606","branchName": "合肥蓝色湖畔社区支行", "value": 210, "totalVag": 130, "rate":0.0531, "rankNo":6  },
+        { "branchNo": "61702","branchName": "瑶海支行", "value": 250, "totalVag": 130, "rate":0.0531, "rankNo":7  },
+        { "branchNo": "61703","branchName": "望江西路支行", "value": 268, "totalVag": 130, "rate":0.0531, "rankNo":8  },
+        { "branchNo": "61704","branchName": "庐江支行", "value": 288, "totalVag": 130, "rate":0.0531, "rankNo":9  }
+    ]
+}

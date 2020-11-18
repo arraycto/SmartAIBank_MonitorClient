@@ -1,0 +1,28 @@
+{
+  "RET_INFO": "管理端接受到监控的数据",
+  "ACCOUNT_INFO": {
+    "BRANCH_NAME": "支行一",
+    "ACCOUNT_LIST": [
+      {
+        "START_DATE": "20190730",
+        "END_DATE": "20190731",
+        "TRAN_TIME": "20190730",
+        "PERIOD_ID": "01",
+        "ACCOUNT_RESULT": "对账完成不一致"
+      },
+      {
+        "START_DATE": "20190730",
+        "END_DATE": "20190731",
+        "TRAN_TIME": "20190730",
+        "PERIOD_ID": "01",
+        "ACCOUNT_RESULT": "对账完成不一致"
+      }
+    ],
+    "BRANCH_NO": "0011",
+    "DEVICE_TYPE_NAME": "排队机",
+    "DEVICE_TYPE": "QUEUE",
+    "MAC": "B4B52FD151A0",
+    "MID": "0011001"
+  },
+  "RET_CODE": "000000"
+}
